@@ -422,7 +422,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'lz10mjvs': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // HealthPage
@@ -521,7 +521,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gqfynnak': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Training
@@ -743,7 +743,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'g5ge4tpz': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges
@@ -762,15 +762,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '1rjmvqv6': {
       'ru': 'Переход на спину',
-      'en': '',
+        'en': 'Transition to backward',
     },
     '1sq4nsai': {
       'ru': '+20 очков',
-      'en': '',
+        'en': '+20 points',
     },
     'hplzwkr6': {
       'ru': '4.7',
-      'en': '',
+        'en': '4.7',
     },
     '8q3e9ktf': {
       'ru': 'Внутреннее ребро',
@@ -970,7 +970,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gfv76l3l': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps
@@ -985,15 +985,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'yc0k6yqt': {
       'ru': 'Переступания',
-      'en': '',
+        'en': 'Crossovers',
     },
     'gm6frlu8': {
       'ru': '+10 очков',
-      'en': '',
+        'en': '+10 points',
     },
     '8h1i8sfy': {
       'ru': '4.5',
-      'en': '',
+        'en': '4.5',
     },
     'paj5vmcd': {
       'ru': 'Ближней ногой',
@@ -1093,7 +1093,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ci3uerb8': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships
@@ -1272,7 +1272,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'usfsczhj': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_FastUlitka
@@ -1317,7 +1317,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '6npdsnhz': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_UlitkaBTOF
@@ -1362,7 +1362,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '0uqdk5ov': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_LiyingUlitka
@@ -1407,7 +1407,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'cxz2bc9z': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_Christ
@@ -1452,7 +1452,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '0lqp1r4l': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_UlitkaPlusJump
@@ -1497,7 +1497,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fyv46ibs': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Inside
@@ -1542,7 +1542,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'm1vsboyt': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Outside
@@ -1587,7 +1587,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'llxx8jas': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Slalom
@@ -1632,7 +1632,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'pvpxzxeq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Stop1
@@ -1677,7 +1677,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'e1z5sbzp': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Fleshlights
@@ -1722,7 +1722,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'xn754wuy': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_ChristSteps
@@ -1767,7 +1767,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '3mhdjvtu': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_PliometrikaIce
@@ -1812,7 +1812,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '2zp294ll': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Chelnok
@@ -1857,7 +1857,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '21jiodfm': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // BTOF_OnBackonForward
@@ -1902,7 +1902,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '8cw1tch2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // BTOF_Jumping
@@ -1947,7 +1947,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fnu8l3ef': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_complex
@@ -1992,7 +1992,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fx4818r8': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // EdgesSlicePlusUborPodSebya
@@ -2037,7 +2037,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'egv46lo7': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // VirazhySlicePlusUlitka
@@ -2082,7 +2082,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'bo0c5ykq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Edges_Stop2
@@ -2127,7 +2127,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '7gxssf24': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_Ship
@@ -2172,7 +2172,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'l2t47do2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_PlusUlitka
@@ -2217,7 +2217,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'nuuyfx16': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_OnForward
@@ -2262,7 +2262,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'xyfrsdb3': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ship_ReversePlusUborPodSebya
@@ -2307,7 +2307,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'aocmru5q': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_BTOFPlus8
@@ -2352,7 +2352,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'v3iutz5l': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_PlusSit
@@ -2397,7 +2397,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'vp35tfj1': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_Reverse
@@ -2442,7 +2442,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'mkcrsvex': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_OnForwardAndUlitka
@@ -2487,7 +2487,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'qlk5ednx': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_Snake
@@ -2532,7 +2532,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'uoqfmurz': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_FirstLeg
@@ -2577,7 +2577,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'vse81d9r': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_SecondLeg
@@ -2622,7 +2622,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'jmmpitzd': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_FirstLegBack
@@ -2667,7 +2667,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ktaqlr72': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_SecondLegBack
@@ -2712,7 +2712,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '512p4hq3': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_SecondLegPlus
@@ -2757,7 +2757,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'jgt9fjqr': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Steps_SecondLegPlusBack
@@ -2802,7 +2802,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'qukq9b3x': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting
@@ -2845,15 +2845,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fd6vwavi': {
       'ru': 'Бросок с шага',
-      'en': '',
+        'en': 'Step shot',
     },
     'sewobjj6': {
       'ru': '+20 очков',
-      'en': '',
+        'en': '+20 points',
     },
     'ybye4utb': {
       'ru': '5.0',
-      'en': '',
+        'en': '5.0',
     },
     'mrxq6vh5': {
       'ru': 'Щелчок',
@@ -3113,7 +3113,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ugg80uxp': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_Forehand
@@ -3158,7 +3158,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'u0lf5zdc': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_Backhand
@@ -3203,7 +3203,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '4ncryyzd': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_Shelchok_Zhuravlyov
@@ -3211,7 +3211,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'r1sf6npv': {
       'ru':
           'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
     },
     'i896w404': {
       'ru': 'Щелчок',
@@ -3253,7 +3253,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '3dosm72g': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_RapidShoot
@@ -3298,7 +3298,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '7itx9i47': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_Statick_Zhuravlyov
@@ -3306,7 +3306,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'm26hcr8d': {
       'ru':
           'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
     },
     'x3w4ftbn': {
       'ru': 'Бросок кистями в статике',
@@ -3348,7 +3348,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'nwvgnbw6': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_OneTimer
@@ -3393,7 +3393,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'l6k8pd6e': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_QuickShotAfterPerebor
@@ -3438,7 +3438,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'g7p3ti7u': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_AfterTwoPasses
@@ -3483,7 +3483,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'wle7099q': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_QuickShotAfterPass
@@ -3528,7 +3528,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'oo1wiyrg': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_ShootFromMyself_Zhuravlyov
@@ -3536,7 +3536,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'c5jdh0yg': {
       'ru':
           'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Даниил Журавлев - профессиональный игрок КХЛ, защитник хк \"Ак Барс\". Татарстанский воспитанник.',
     },
     '8wxgsgey': {
       'ru': 'Бросок после убора под себя',
@@ -3578,7 +3578,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'e2ze3hgq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_FromOneLegStatick
@@ -3623,7 +3623,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ceoq8c8d': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_shortSchelchok
@@ -3668,7 +3668,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'f6yc2sfl': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_FromMyselfAfterSecondPuck
@@ -3713,7 +3713,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'pj7i9z5q': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_SitOnPlatform
@@ -3758,7 +3758,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gdqo2sad': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_OneLegOnPlatformBack
@@ -3803,7 +3803,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '7gcse5i4': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_QuickShotAfterJumpOnLeg
@@ -3848,7 +3848,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '9jtqc208': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_ShotFromKneeAfterPerestupaniye
@@ -3893,7 +3893,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'pqigzzys': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_InStaticJumpFromLegToLeg
@@ -3938,7 +3938,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'hhiy84y2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_QuickShotAfterLieBackhandForehand
@@ -3983,7 +3983,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'r57s03mb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Lovkost
@@ -4050,7 +4050,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ozett8qs': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Moshnost
@@ -4117,7 +4117,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'roe9jq58': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Vynoslivost
@@ -4176,7 +4176,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '0ynv5j0c': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Balance
@@ -4243,7 +4243,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'bv9hqkc4': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Force
@@ -4310,7 +4310,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'xp6x2e5d': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Earth_Speed
@@ -4385,7 +4385,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'lfiszzr2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // AfterGamePsychlogy
@@ -4426,7 +4426,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '6v7xd18r': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // FreeDayPsychology
@@ -4467,7 +4467,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'yh6f2de2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // BeforeTrainingPsychology
@@ -4508,7 +4508,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zmyme5yi': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // AfterTrainingPsychology
@@ -4549,7 +4549,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'sierphpy': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // OnVacationPsychology
@@ -4590,7 +4590,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ij3h2g70': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Sleep_pregame
@@ -4627,7 +4627,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     't25fyxcl': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Sleep_aftergame
@@ -4664,7 +4664,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'wp74gvcw': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Sleep_trainingday
@@ -4701,7 +4701,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ei8xs4q2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Sleep_freeday
@@ -4738,7 +4738,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'qhc7avi2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Sleep_onvacation
@@ -4775,7 +4775,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'dgaw2jvj': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Eating_Pregame
@@ -4812,7 +4812,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '9lbm4ejf': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Eating_BeforeTraining
@@ -4849,7 +4849,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '32xv0ieh': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Eating_AfterTraining
@@ -4886,7 +4886,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '49enyrfq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Eating_FreeDays
@@ -4923,7 +4923,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ya8crk74': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Eating_AfterGame
@@ -4960,7 +4960,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'kc89kwah': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_jumping_on_platform
@@ -5005,7 +5005,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '6opvuzuq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_running_on_lestnitsa
@@ -5050,7 +5050,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ymbuh4cm': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_running_on_side
@@ -5095,7 +5095,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '1a9tivtk': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_running_on_place
@@ -5140,7 +5140,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'iz3i9a7n': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_sprinting
@@ -5185,7 +5185,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'qekn2eiy': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_snakes
@@ -5230,7 +5230,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'j05rzdmb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_frogg
@@ -5275,7 +5275,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'lgdj1ue0': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_byke
@@ -5320,14 +5320,14 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '8pxnqdni': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_circles
   {
     'p2op3z3h': {
       'ru': 'Круги на полной скорости',
-      'en': '',
+        'en': 'Full speed circles',
     },
     '2rabaqfx': {
       'ru': '90',
@@ -5365,7 +5365,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'r9f8hlel': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_m_football
@@ -5410,7 +5410,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'jpopzqbj': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_skakalka_p_sprint
@@ -5455,7 +5455,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'o8r9zocx': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_tabata
@@ -5500,7 +5500,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '2j6k5505': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // vynoslivost_swimming
@@ -5545,7 +5545,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ec56dnsh': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_otzhim_v_pryzhke
@@ -5590,7 +5590,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '1vhxznfx': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_jump_from_sit
@@ -5635,7 +5635,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '2bxw7qfn': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_medicin_ball
@@ -5680,7 +5680,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'w5zc0udw': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_jump_from_one_leg
@@ -5725,7 +5725,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'z0pssbr5': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_paliometrica
@@ -5770,7 +5770,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '89tuvepq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_zhgut
@@ -5815,7 +5815,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '70m5owne': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // moshnost_zhim
@@ -5860,7 +5860,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'tftlfalk': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkst_kuvyrok
@@ -5905,7 +5905,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'd8hevf3x': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_step
@@ -5950,7 +5950,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fx6ectye': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_legging
@@ -5995,7 +5995,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '43b5g5db': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_jump_on_side
@@ -6040,7 +6040,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'sgihcp39': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_prygalka
@@ -6085,7 +6085,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '2dx5yfba': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_small_area
@@ -6130,7 +6130,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zfdq4qk5': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // lovkost_tennisball
@@ -6175,7 +6175,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ty0d7rdb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_bicepcs
@@ -6220,7 +6220,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     't119uhzc': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_brusya
@@ -6265,7 +6265,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'lj9o4wc9': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_plank
@@ -6310,7 +6310,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'mim9e3ym': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_turnik
@@ -6355,7 +6355,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'pnlf9usf': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_sit
@@ -6400,7 +6400,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '7wjdsq9p': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_tyaga
@@ -6445,7 +6445,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zq4lvhfb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // force_otzhim_pauk
@@ -6490,7 +6490,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zihm1r3u': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_millenium
@@ -6535,7 +6535,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'qdwu4pba': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_prised_on_podushka
@@ -6580,7 +6580,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gc6wvlc5': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_supermen
@@ -6625,7 +6625,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ymfimmug': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_skruchivanya_v_upore
@@ -6670,7 +6670,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '02n69oja': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_jump_on_stepup
@@ -6715,7 +6715,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ggxw28jt': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_one_leg_sit
@@ -6760,7 +6760,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'icyrk06g': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // balance_bird
@@ -6805,7 +6805,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'v62pgdh5': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // ice_stick_tech
@@ -6896,15 +6896,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'u72uip82': {
       'ru': 'Трезубец',
-      'en': '',
+        'en': 'Trident',
     },
     'wzsktd96': {
       'ru': '+20 очков',
-      'en': '',
+        'en': '+20 points',
     },
     'fwadie4q': {
       'ru': '5.0',
-      'en': '',
+        'en': '5.0',
     },
     '7uumu6pb': {
       'ru': 'Быстрый дриблинг',
@@ -6980,15 +6980,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'g3qgsly5': {
       'ru': 'Восьмерка спиной',
-      'en': '',
+        'en': 'Backward figure eight',
     },
     'wt9tp6iq': {
       'ru': '+20 очков',
-      'en': '',
+        'en': '+20 points',
     },
     '6nbrdexm': {
       'ru': '5.0',
-      'en': '',
+        'en': '5.0',
     },
     'tqcs22eh': {
       'ru': 'Линия одной рукой',
@@ -7020,7 +7020,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'lsouie1r': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_eight
@@ -7065,7 +7065,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'glpvc5l8': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_weight_perebor
@@ -7110,7 +7110,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'xq9lg6lq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_underself
@@ -7155,7 +7155,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'u97x7qk7': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_forehand
@@ -7200,7 +7200,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'kvrocveu': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_backhand
@@ -7245,7 +7245,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'k9ju6bot': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_fast_dribble
@@ -7290,7 +7290,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gy6a5sjk': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_twice_underself
@@ -7335,7 +7335,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zoxxb31i': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_speed_puckline
@@ -7380,7 +7380,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'jke563b2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_flypuck
@@ -7425,7 +7425,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'gyc50nhl': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_underself_outself
@@ -7470,7 +7470,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '8ez8hisq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_oneHand_line
@@ -7515,7 +7515,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'nyb5g1gg': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_tetris
@@ -7560,7 +7560,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'hlzqa6kh': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_twice_lie
@@ -7605,7 +7605,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'nzppoffj': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootout_datsuyk
@@ -7650,7 +7650,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '5dws9bhi': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootout_zaripov
@@ -7695,7 +7695,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'wrfkyv44': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootout_backhand
@@ -7740,7 +7740,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'cvglprt4': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootouts
@@ -7868,7 +7868,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'de0n8fi1': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootout_in_house
@@ -7913,7 +7913,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '3l0k76qp': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shootout_oneHand
@@ -7958,7 +7958,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'ncagh7cn': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // edges_complexOne
@@ -8003,7 +8003,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '38muun8f': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // edges_SlalomOneLeg
@@ -8048,7 +8048,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'cay6vvnu': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Virazhy_complexOne
@@ -8093,7 +8093,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'we3midze': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_Triangle
@@ -8138,7 +8138,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'npj13zu0': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_TriangleTwo
@@ -8183,7 +8183,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '57hjel34': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Ships_Christ
@@ -8228,7 +8228,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'arwj0dza': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // speed_halfJump
@@ -8273,7 +8273,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'g7qnx9jd': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shooting_FromMyselfOutself
@@ -8318,7 +8318,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'a3gk00in': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // shooting_FromOneLegOnPlatormSide
@@ -8363,7 +8363,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'rb0yuexb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // changeProfile
@@ -8405,15 +8405,15 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   {
     'o327hkyn': {
       'ru': 'ILNUR\'S',
-      'en': '',
+      'en': 'ILNUR\'S',
     },
     'lspv1z3s': {
       'ru': 'Счастливый Лед',
-      'en': '',
+        'en': 'Lucky Ice',
     },
     '8b7ew0z5': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Anti-Doping-Base
@@ -8450,7 +8450,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zm60io7h': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // HockeyFacts
@@ -8514,7 +8514,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'rgmict4a': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Anti-Doping-dangerThings
@@ -8547,7 +8547,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '3qdmbaxl': {
       'ru': 'Ссылка на список запрещенных веществ',
-      'en': '',
+        'en': 'Link to the banned substances list',
     },
     '50akqtpj': {
       'ru': 'Анти-Допинг',
@@ -8555,7 +8555,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'zidj2qrq': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Anti-Doping-control
@@ -8592,7 +8592,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '5g4ivfrl': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Anti-Doping-whatCanBe
@@ -8629,309 +8629,309 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'xzfuywjr': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // JudgeGesture
   {
     'caiinks6': {
       'ru': 'Правило 24 - Штрафной бросок',
-      'en': '',
+        'en': 'Rule 24 - Penalty Shot',
     },
     'z3z3a5vw': {
       'ru': 'Руки, скрещенные над головой',
-      'en': '',
+        'en': 'Arms crossed above the head',
     },
     '0da6l76q': {
       'ru': 'Правило 61 - Командный тайм-аут',
-      'en': '',
+        'en': 'Rule 61 - Team Time-Out',
     },
     'mxzofff4': {
       'ru': 'Обе руки в форме буквы \"T\" перед грудью',
-      'en': '',
+        'en': 'Both hands in the shape of a \"T\" in front of the chest',
     },
     'u9z29tvu': {
       'ru': 'Правило 65 - Проброс шайбы/Гибридный проброс',
-      'en': '',
+        'en': 'Rule 65 - Icing/Hybrid Icing',
     },
     'zyq04ldt': {
       'ru':
           'Задний Линейный судья сигнализирует возможный проброс выпрямлением руки над головой. Рука остается в поднятом положении пока передний Линейный судья или Главный судья не даст свитка, фиксирующего проброс, либо до момента отмены проброса. Как только проброс состоялся, задний Линейный судья или Главный судья (при двойном судействе) сначала скрещивает руки перед грудью и затем указывает на соответствующую точку вбрасывания и едет к ней.',
-      'en': '',
+      'en': 'Задний Линейный судья сигнализирует возможный проброс выпрямлением руки над головой. Рука остается в поднятом положении пока передний Линейный судья или Главный судья не даст свитка, фиксирующего проброс, либо до момента отмены проброса. Как только проброс состоялся, задний Линейный судья или Главный судья (при двойном судействе) сначала скрещивает руки перед грудью и затем указывает на соответствующую точку вбрасывания и едет к ней.',
     },
     'ehyr7wsl': {
       'ru': 'Правило 74 - Пас рукой',
-      'en': '',
+        'en': 'Rule 74 - Hand Pass',
     },
     'j8gvyxnf': {
       'ru': 'Открытая ладонь в толчковом движении.',
-      'en': '',
+        'en': 'An open palm in a pushing motion.',
     },
     'tj90du9b': {
       'ru': 'Правило 78 - Вне игры',
-      'en': '',
+        'en': 'Rule 78 - Offside',
     },
     'wqlio6al': {
       'ru':
           'Судья должен сначала дать свисток и только после этого выпрямить руку горизонтально, указывая вдоль синей линии рукой без свистка.',
-      'en': '',
+      'en': 'Судья должен сначала дать свисток и только после этого выпрямить руку горизонтально, указывая вдоль синей линии рукой без свистка.',
     },
     'nsf7vuc3': {
       'ru': 'Правило 82 - Отложенное положение \"вне игры\"',
-      'en': '',
+        'en': 'Rule 82 - Delayed Offside',
     },
     'ywm4m5y0': {
       'ru':
           'Рука без свистка полностью выпрямлена над головой. Для отмены отложенного офсайда Линейный судья должен опустить руку по шву.',
-      'en': '',
+      'en': 'Рука без свистка полностью выпрямлена над головой. Для отмены отложенного офсайда Линейный судья должен опустить руку по шву.',
     },
     'm1qgketi': {
       'ru': 'Правило 92 - Процедура смены игроков',
-      'en': '',
+        'en': 'Rule 92 - Player Substitution Procedure',
     },
     '8cz5ajus': {
       'ru':
           'Главный судья дает команде гостю пять секунд на смену игрока (игроков). По истечении пяти секунд Главный судья поднимает руку, показывая, что команда-гость более не имеет права производить смену и одновременно означает, что команда-хозяин имеет пять секунд на смену своих игроков.',
-      'en': '',
+      'en': 'Главный судья дает команде гостю пять секунд на смену игрока (игроков). По истечении пяти секунд Главный судья поднимает руку, показывая, что команда-гость более не имеет права производить смену и одновременно означает, что команда-хозяин имеет пять секунд на смену своих игроков.',
     },
     '4q8j8ueo': {
       'ru': 'Правило 94 - Взятие ворот',
-      'en': '',
+        'en': 'Rule 94 - Goal Scored',
     },
     '32n1u2sa': {
       'ru':
           'Рука, вытянутая в направлении ворот, означает, что шайба вошла в ворота.',
-      'en': '',
+      'en': 'Рука, вытянутая в направлении ворот, означает, что шайба вошла в ворота.',
     },
     'f226380l': {
       'ru': 'Правило 97 - Жест Отрицания',
-      'en': '',
+        'en': 'Rule 97 - Washout Gesture',
     },
     'pgnsc66w': {
       'ru':
           'Маховое движение обеими руками перед телом на уровне плеч ладонями вниз. Для Главного судьи данный жест означает \"гола нет\", \"паса рукой не было\" или \"игры высоко поднятой клюшкой не было\". Для Линейных судей жест означает \"нет проброса\".',
-      'en': '',
+      'en': 'Маховое движение обеими руками перед телом на уровне плеч ладонями вниз. Для Главного судьи данный жест означает \"гола нет\", \"паса рукой не было\" или \"игры высоко поднятой клюшкой не было\". Для Линейных судей жест означает \"нет проброса\".',
     },
     'ntbylbkc': {
       'ru':
           'Правило 107, 109 - Продолжительность штрафов. Дисциплинарный и дисциплинарный до конца игры штраф',
-      'en': '',
+      'en': 'Правило 107, 109 - Продолжительность штрафов. Дисциплинарный и дисциплинарный до конца игры штраф',
     },
     'v79w1bqw': {
       'ru': 'Обе руки на бедрах.',
-      'en': '',
+        'en': 'Both hands on the hips.',
     },
     'ogvfzufj': {
       'ru': 'Правило 110 - Продолжительность штрафов. Матч штраф',
-      'en': '',
+        'en': 'Rule 110 - Duration of Penalties. Match Penalty',
     },
     'xzxuwdf4': {
       'ru': 'Ладонь одной руки поверх шлема.',
-      'en': '',
+        'en': 'The palm of one hand placed on top of the helmet.',
     },
     'w9exhyav': {
       'ru': 'Правило 114 - Отложенный штраф',
-      'en': '',
+        'en': 'Rule 114 - Delayed Penalty',
     },
     'dvmvz3oa': {
       'ru':
           'Рука без свистка полностью вытянута над головой. Допускается сначала показывать на нарушившего игрока, затем поднимать руку.',
-      'en': '',
+      'en': 'Рука без свистка полностью вытянута над головой. Допускается сначала показывать на нарушившего игрока, затем поднимать руку.',
     },
     '8ujaxh9e': {
       'ru': 'Правило 119 - Толчок соперника на борт',
-      'en': '',
+        'en': 'Rule 119 - Boarding',
     },
     'i7odpe6n': {
       'ru': 'Удар кулаком одной руки о ладонь противоположной перед грудью.',
-      'en': '',
+        'en': 'A fist of one hand striking the palm of the opposite hand in front of the chest.',
     },
     '66z6jxrl': {
       'ru': 'Правило 121 - Удар соперника концом клюшки',
-      'en': '',
+        'en': 'Rule 121 - Butt-Ending',
     },
     '3szwhp2w': {
       'ru':
           'Встречное движение предплечьями, одно под другим. Ладонь верхней руки открыта, нижняя рука - в сжатом кулаке.',
-      'en': '',
+      'en': 'Встречное движение предплечьями, одно под другим. Ладонь верхней руки открыта, нижняя рука - в сжатом кулаке.',
     },
     'ov8yn9kn': {
       'ru': 'Правило 122 - Неправильная атака соперника',
-      'en': '',
+        'en': 'Rule 122 - Charging',
     },
     'eoqhkx3q': {
       'ru': 'Вращение кулаков друг вокруг друга перед грудью.',
-      'en': '',
+        'en': 'Rotating fists around each other in front of the chest.',
     },
     'ev2b7qx7': {
       'ru': 'Правило 122 - Атака сзади',
-      'en': '',
+        'en': 'Rule 122 - Charging from Behind',
     },
     'cl4x480x': {
       'ru':
           'Движение обеих рук с открытыми ладонями в сторону от тела, полностью вытянутыми от груди до уровня плеч.',
-      'en': '',
+      'en': 'Движение обеих рук с открытыми ладонями в сторону от тела, полностью вытянутыми от груди до уровня плеч.',
     },
     'pz5kau96': {
       'ru': 'Правило 124 - Атака в голову или в область шеи',
-      'en': '',
+        'en': 'Rule 124 - Hit to the Head or Neck Area',
     },
     'xee7fqlg': {
       'ru': 'Боковое движение открытой ладони в направлении виска.',
-      'en': '',
+        'en': 'A sideways movement of the open palm toward the temple.',
     },
     'cimo6otg': {
       'ru': 'Правило 125 - Отсечение',
-      'en': '',
+        'en': 'Rule 125 - Clipping',
     },
     'yerxw6gu': {
       'ru': 'Удар рукой по ноге ниже колена сзади; оба конька - на льду.',
-      'en': '',
+        'en': 'A hit with the hand on the leg below the knee from behind; both skates on the ice.',
     },
     'u1msj7el': {
       'ru': 'Правило 127 - Толчок соперника клюшкой',
-      'en': '',
+        'en': 'Rule 127 - Cross-Checking',
     },
     '1sobfsmb': {
       'ru':
           'Движение обеих рук вперед-назад со сжатыми кулаками на расстоянии примерно полметра от груди.',
-      'en': '',
+      'en': 'Движение обеих рук вперед-назад со сжатыми кулаками на расстоянии примерно полметра от груди.',
     },
     'vjqy1p0b': {
       'ru': 'Правило 135, 217 - Задержка игры/Выброс шайбы из игры',
-      'en': '',
+        'en': 'Rule 135, 217 - Delay of Game/Throwing Puck Out of Play',
     },
     '3rb2tk2a': {
       'ru':
           'Рука без свистка с открытой ладонью поперек груди вытянута от плеча в сторону.',
-      'en': '',
+      'en': 'Рука без свистка с открытой ладонью поперек груди вытянута от плеча в сторону.',
     },
     'ubdi0fqa': {
       'ru': 'Правило 139 - Удар соперника локтем',
-      'en': '',
+        'en': 'Rule 139 - Elbowing',
     },
     'il0tobwv': {
       'ru': 'Постукивание по одному из локтей противоположной рукой.',
-      'en': '',
+        'en': 'Tapping one of the elbows with the opposite hand.',
     },
     'am3ikxwf': {
       'ru': 'Правило 143 - Игра высоко поднятой клюшкой',
-      'en': '',
+        'en': 'Rule 143 - High Sticking',
     },
     'ot3kxtkd': {
       'ru': 'Оба кулака, один над другим - на уровне лба.',
-      'en': '',
+        'en': 'Both fists, one above the other, at forehead level.',
     },
     '5vyo0qps': {
       'ru': 'Правило 144 - Задержка соперника руками',
-      'en': '',
+        'en': 'Rule 144 - Holding',
     },
     'ju7ma55k': {
       'ru': 'Кисть одной руки обхватывает запястье другой.',
-      'en': '',
+        'en': 'The hand of one arm grasps the wrist of the other.',
     },
     'yh0urbad': {
       'ru': 'Правило 145 - Задержка клюшки соперника',
-      'en': '',
+        'en': 'Rule 145 - Holding the Stick',
     },
     'mqoc39io': {
       'ru':
           'Двухфазовый жест: сначала — как за задержку клюшкой, затем - имитация клюшки, удерживаемой двумя руками.',
-      'en': '',
+      'en': 'Двухфазовый жест: сначала — как за задержку клюшкой, затем - имитация клюшки, удерживаемой двумя руками.',
     },
     '1pi9qxfd': {
       'ru': 'Правило 146 - Задержка соперника клюшкой',
-      'en': '',
+        'en': 'Rule 146 - Hooking',
     },
     '5nljgozo': {
       'ru': 'Движение обеими руками, имитирующее клюшку.',
-      'en': '',
+        'en': 'A motion with both hands imitating a hockey stick.',
     },
     '6x0gh35h': {
       'ru':
           'Правило 150, 151 - Атака игрока, не владеющего шайбой, неправильная атака вратаря',
-      'en': '',
+      'en': 'Правило 150, 151 - Атака игрока, не владеющего шайбой, неправильная атака вратаря',
     },
     'ly5imc8h': {
       'ru': 'Руки крест на крест со сжатыми кулаками.',
-      'en': '',
+        'en': 'Arms crossed with clenched fists.',
     },
     'v5go4rl8': {
       'ru': 'Правило 153 - Удар соперника коленом',
-      'en': '',
+        'en': 'Rule 153 - Kneeing',
     },
     'ihwgdwmv': {
       'ru': 'Постукивание по колену (любому) ладонью; оба конька - на льду.',
-      'en': '',
+        'en': 'Tapping the (either) knee with the palm; both skates on the ice.',
     },
     '3gwil7o4': {
       'ru': 'Правило 158 - Грубость (грубая игра)',
-      'en': '',
+        'en': 'Rule 158 - Roughing',
     },
     'ltk9f9fu': {
       'ru': 'Рука со сжатым кулаком, вытянутая в сторону.',
-      'en': '',
+        'en': 'An arm with a clenched fist, extended to the side.',
     },
     'oq59dgzq': {
       'ru': 'Правило 159 - Удар соперника клюшкой',
-      'en': '',
+        'en': 'Rule 159 - Slashing',
     },
     '8rs89ty4': {
       'ru': 'Движение ребром ладони ударом по запястью противоположной руки.',
-      'en': '',
+        'en': 'A chop of the palm edge against the wrist of the opposite hand.',
     },
     'btpp6m0k': {
       'ru': 'Правило 161 - Колющий удар клюшкой',
-      'en': '',
+        'en': 'Rule 161 - Spearing',
     },
     '9m4klbrl': {
       'ru':
           'Движение, имитирующее колющий удар, при нанесении которого клюшка удерживается обеими руками, выбрасывая их перед собой, после чего обе руки опускаются по швам.',
-      'en': '',
+      'en': 'Движение, имитирующее колющий удар, при нанесении которого клюшка удерживается обеими руками, выбрасывая их перед собой, после чего обе руки опускаются по швам.',
     },
     'ycge0zfy': {
       'ru': 'Правило 166 - Нарушение численного состава',
-      'en': '',
+        'en': 'Rule 166 - Too Many Players on the Ice',
     },
     '6ggezz4w': {
       'ru': 'Шесть пальцев (одна рука открыта) перед грудью.',
-      'en': '',
+        'en': 'Six fingers (one hand open) in front of the chest.',
     },
     'djwhjvd9': {
       'ru': 'Правило 167 - Подножка',
-      'en': '',
+        'en': 'Rule 167 - Tripping',
     },
     '07rjy7c2': {
       'ru':
           'Удар по ноге любой рукой движением ниже колена; оба конька — на льду.',
-      'en': '',
+      'en': 'Удар по ноге любой рукой движением ниже колена; оба конька — на льду.',
     },
     '8mkxhhky': {
       'ru': 'Правило 169 - Запрещенный силовой прием (женский хоккей)',
-      'en': '',
+        'en': 'Rule 169 - Illegal Check (Women\'s Hockey)',
     },
     'kwe6afuq': {
       'ru':
           'Ладонь руки без свистка проводится поперек торса и кладется на противоположное плечо.',
-      'en': '',
+      'en': 'Ладонь руки без свистка проводится поперек торса и кладется на противоположное плечо.',
     },
     'vkqof8s6': {
       'ru':
           'Правило 170 - Штрафной бросок и послематчевые броски как составная часть игры',
-      'en': '',
+      'en': 'Правило 170 - Штрафной бросок и послематчевые броски как составная часть игры',
     },
     'e90921ph': {
       'ru': 'Руки, скрещенные над головой.',
-      'en': '',
+        'en': 'Arms crossed above the head.',
     },
     '9fpbm9fw': {
       'ru': 'Правило 184 - Атакующий игрок в площади ворот',
-      'en': '',
+        'en': 'Rule 184 - Attacking Player in the Goal Crease',
     },
     '2yiwzwc7': {
       'ru':
           'Полукруговое движение одной рукой на уровне груди параллельно поверхности льда, имитирующее площадь ворот с последующим вытягиванием другой руки горизонтально, кисть указывает в сторону средней зоны.',
-      'en': '',
+      'en': 'Полукруговое движение одной рукой на уровне груди параллельно поверхности льда, имитирующее площадь ворот с последующим вытягиванием другой руки горизонтально, кисть указывает в сторону средней зоны.',
     },
     'k9jgifzh': {
       'ru': 'Жесты Арбитров',
@@ -8939,7 +8939,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'fys43hmh': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // MSMKpdf
@@ -8950,56 +8950,56 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'j6zuewng': {
       'ru': 'МСМК',
-      'en': '',
+        'en': 'MSIC',
     },
     '7nsk4inx': {
       'ru': 'МС/КМС',
-      'en': '',
+        'en': 'MS/CMS',
     },
     '3eirq6om': {
       'ru': 'РАЗРЯДЫ',
-      'en': '',
+        'en': 'RANKINGS',
     },
     'hd0z5ztm': {
       'ru': 'Мастер Спорта России Международного Класса (МСМК)',
-      'en': '',
+        'en': 'Master of Sports of Russia of International Class (MSIC)',
     },
     'zv9humwp': {
       'ru': '100',
-      'en': '',
+        'en': '100',
     },
     'pa3jurj6': {
       'ru': 'Уровень',
-      'en': '',
+        'en': 'Level',
     },
     '9origl55': {
       'ru': '100',
-      'en': '',
+        'en': '100',
     },
     '9gs7g2o1': {
       'ru': 'Престиж',
-      'en': '',
+        'en': 'Prestige',
     },
     'yysfd6c5': {
       'ru': '100',
-      'en': '',
+        'en': '100',
     },
     'yrcm0urb': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'nj6wxorr': {
       'ru':
           'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
-      'en': '',
+      'en': 'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
     },
     'xkkefdpl': {
       'ru': 'Открыть excel таблицу',
-      'en': '',
+        'en': 'Open Excel spreadsheet',
     },
     '4smsjohf': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // equipmentPage
@@ -9042,7 +9042,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '0c6ntzvb': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // SkatesPage
@@ -9050,65 +9050,65 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'rxxf9nyl': {
       'ru':
           'Хоккейные коньки - это один из самых важных элементов экипировки для любого хоккеиста. Они должны обеспечивать не только комфорт и поддержку, но и максимальную производительность на льду. Вот описание хоккейных коньков и советы по их выбору:',
-      'en': '',
+      'en': 'Хоккейные коньки - это один из самых важных элементов экипировки для любого хоккеиста. Они должны обеспечивать не только комфорт и поддержку, но и максимальную производительность на льду. Вот описание хоккейных коньков и советы по их выбору:',
     },
     '87v3jznm': {
       'ru': 'Хоккейные коньки',
-      'en': '',
+        'en': 'Hockey Skates',
     },
     'hxtgyvaq': {
       'ru':
           'Описание: Хоккейные коньки состоят из ботинок, лезвий и защитных вставок. Ботинки изготавливаются из прочного и легкого материала, часто с использованием композитных и термопластичных материалов. Лезвия изготавливаются из высококачественной нержавеющей стали и крепятся к подошве ботинка.',
-      'en': '',
+      'en': 'Описание: Хоккейные коньки состоят из ботинок, лезвий и защитных вставок. Ботинки изготавливаются из прочного и легкого материала, часто с использованием композитных и термопластичных материалов. Лезвия изготавливаются из высококачественной нержавеющей стали и крепятся к подошве ботинка.',
     },
     '7b4moj5p': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'm5hf60yq': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Коньки должны плотно облегать ногу, но не вызывать дискомфорта. При примерке следует убедиться, что пальцы ног касаются носка ботинка, а пятка плотно зафиксирована.\n\nПримерка: Примеряйте коньки в тех же носках, которые планируете носить на льду. После шнуровки нога не должна двигаться внутри ботинка.\n\nРост и возраст: Учитывайте возраст и рост ребенка. Коньки не должны быть \"на вырост\", так как это может привести к травмам и неудобству.\n\n2. Жесткость и поддержка:\n\nУровень игры: Для начинающих подойдут более мягкие модели, обеспечивающие комфорт и легкость катания. Более продвинутым игрокам нужны жесткие коньки с хорошей поддержкой и фиксацией.\nМатериалы: Коньки из композитных материалов легкие и прочные, обеспечивают хорошую поддержку и долговечность.\n\n3. Стельки и внутренние материалы:\n\nКомфорт: Внутренние материалы должны обеспечивать хорошую амортизацию и комфорт. Некоторые модели имеют термоформуемые стельки, которые подстраиваются под форму ноги.\nВентиляция: Обратите внимание на наличие вентиляционных отверстий для предотвращения излишней потливости и неприятного запаха.\n\n4. Лезвия:\n\nКачество стали: Лезвия должны быть из высококачественной нержавеющей стали, обеспечивающей долговечность и острые края.\nСъемные лезвия: Некоторые модели позволяют заменять лезвия, что удобно при износе или повреждении.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Коньки должны плотно облегать ногу, но не вызывать дискомфорта. При примерке следует убедиться, что пальцы ног касаются носка ботинка, а пятка плотно зафиксирована.\n\nПримерка: Примеряйте коньки в тех же носках, которые планируете носить на льду. После шнуровки нога не должна двигаться внутри ботинка.\n\nРост и возраст: Учитывайте возраст и рост ребенка. Коньки не должны быть \"на вырост\", так как это может привести к травмам и неудобству.\n\n2. Жесткость и поддержка:\n\nУровень игры: Для начинающих подойдут более мягкие модели, обеспечивающие комфорт и легкость катания. Более продвинутым игрокам нужны жесткие коньки с хорошей поддержкой и фиксацией.\nМатериалы: Коньки из композитных материалов легкие и прочные, обеспечивают хорошую поддержку и долговечность.\n\n3. Стельки и внутренние материалы:\n\nКомфорт: Внутренние материалы должны обеспечивать хорошую амортизацию и комфорт. Некоторые модели имеют термоформуемые стельки, которые подстраиваются под форму ноги.\nВентиляция: Обратите внимание на наличие вентиляционных отверстий для предотвращения излишней потливости и неприятного запаха.\n\n4. Лезвия:\n\nКачество стали: Лезвия должны быть из высококачественной нержавеющей стали, обеспечивающей долговечность и острые края.\nСъемные лезвия: Некоторые модели позволяют заменять лезвия, что удобно при износе или повреждении.',
     },
     '9blru2x9': {
       'ru': 'Как подобрать желоб для заточки:',
-      'en': '',
+        'en': 'How to select a sharpening hollow:',
     },
     'jfovzgg8': {
       'ru':
           '1. Глубина желоба:\n\nГлубокий желоб: Обеспечивает лучшее сцепление с льдом, что полезно для агрессивных игроков. Однако глубокий желоб требует больше усилий при катании и маневрировании.\n\nМелкий желоб: Подходит для начинающих и тех, кто предпочитает легкость и скорость на льду. Мелкий желоб обеспечивает меньшее сопротивление и более легкое скольжение.\n\n2. Индивидуальные предпочтения:\n\nТестирование: Попробуйте несколько вариантов заточки, чтобы найти оптимальный для себя. Коньки можно заточить с разной глубиной желоба в зависимости от стиля игры и личных предпочтений.',
-      'en': '',
+      'en': '1. Глубина желоба:\n\nГлубокий желоб: Обеспечивает лучшее сцепление с льдом, что полезно для агрессивных игроков. Однако глубокий желоб требует больше усилий при катании и маневрировании.\n\nМелкий желоб: Подходит для начинающих и тех, кто предпочитает легкость и скорость на льду. Мелкий желоб обеспечивает меньшее сопротивление и более легкое скольжение.\n\n2. Индивидуальные предпочтения:\n\nТестирование: Попробуйте несколько вариантов заточки, чтобы найти оптимальный для себя. Коньки можно заточить с разной глубиной желоба в зависимости от стиля игры и личных предпочтений.',
     },
     'u5c32t38': {
       'ru': 'Различия хоккейных коньков:',
-      'en': '',
+        'en': 'Differences in Hockey Skates:',
     },
     '8b2jiuq2': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Коньки для начинающих более мягкие, обеспечивают комфорт и простоту катания.\nСредний и продвинутый уровень: Коньки с жестким ботинком, обеспечивающие максимальную поддержку и производительность. Такие коньки подходят для интенсивных тренировок и игр.\n\n2. Профессиональные и любительские модели:\n\nПрофессиональные коньки: Изготовлены из высококачественных материалов, обеспечивают лучшую поддержку, легкость и долговечность. Они могут быть дороже, но обеспечивают максимальную производительность.\n\nЛюбительские коньки: Менее дорогие, но все еще обеспечивают хорошую защиту и комфорт. Подходят для любительских игр и тренировок.\n\n3. Форма и посадка:\n\nАнатомическая посадка: Некоторые модели имеют анатомическую форму, обеспечивающую более плотное прилегание к ноге и лучшую поддержку.\nТермоформуемые модели: Позволяют подстраивать ботинок под форму ноги путем нагрева и последующего охлаждения.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Коньки для начинающих более мягкие, обеспечивают комфорт и простоту катания.\nСредний и продвинутый уровень: Коньки с жестким ботинком, обеспечивающие максимальную поддержку и производительность. Такие коньки подходят для интенсивных тренировок и игр.\n\n2. Профессиональные и любительские модели:\n\nПрофессиональные коньки: Изготовлены из высококачественных материалов, обеспечивают лучшую поддержку, легкость и долговечность. Они могут быть дороже, но обеспечивают максимальную производительность.\n\nЛюбительские коньки: Менее дорогие, но все еще обеспечивают хорошую защиту и комфорт. Подходят для любительских игр и тренировок.\n\n3. Форма и посадка:\n\nАнатомическая посадка: Некоторые модели имеют анатомическую форму, обеспечивающую более плотное прилегание к ноге и лучшую поддержку.\nТермоформуемые модели: Позволяют подстраивать ботинок под форму ноги путем нагрева и последующего охлаждения.',
     },
     '83qbj7nz': {
       'ru': 'Общие советы:',
-      'en': '',
+        'en': 'General tips:',
     },
     'o0y81vkn': {
       'ru':
           'Примерка: Всегда примеряйте коньки перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nРегулярное обслуживание: Периодически проверяйте состояние лезвий и ботинок, своевременно проводите заточку и замену изношенных деталей.',
-      'en': '',
+      'en': 'Примерка: Всегда примеряйте коньки перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nРегулярное обслуживание: Периодически проверяйте состояние лезвий и ботинок, своевременно проводите заточку и замену изношенных деталей.',
     },
     '2928wyf5': {
       'ru':
           'Правильно подобранные хоккейные коньки обеспечат ребенку комфорт, безопасность и максимальную производительность на льду.',
-      'en': '',
+      'en': 'Правильно подобранные хоккейные коньки обеспечат ребенку комфорт, безопасность и максимальную производительность на льду.',
     },
     'dv62pv8y': {
       'ru': 'Коньки',
-      'en': '',
+        'en': 'Skates',
     },
     'mrpri6au': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // SticksPage
@@ -9116,56 +9116,56 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'y7rslzxb': {
       'ru':
           'Хоккейная клюшка - это основной инструмент любого хоккеиста. Она должна быть удобной, прочной и соответствовать стилю игры игрока. Вот описание хоккейных клюшек и советы по их выбору:',
-      'en': '',
+      'en': 'Хоккейная клюшка - это основной инструмент любого хоккеиста. Она должна быть удобной, прочной и соответствовать стилю игры игрока. Вот описание хоккейных клюшек и советы по их выбору:',
     },
     'cnjmmkwd': {
       'ru': 'Хоккейная клюшка',
-      'en': '',
+        'en': 'Hockey Stick',
     },
     'cvc47yfi': {
       'ru':
           'Описание: Хоккейная клюшка состоит из рукоятки и крюка. Они изготавливаются из различных материалов, включая дерево, композиты и углеродное волокно. Правильно подобранная клюшка позволяет улучшить контроль над шайбой, силу и точность ударов.',
-      'en': '',
+      'en': 'Описание: Хоккейная клюшка состоит из рукоятки и крюка. Они изготавливаются из различных материалов, включая дерево, композиты и углеродное волокно. Правильно подобранная клюшка позволяет улучшить контроль над шайбой, силу и точность ударов.',
     },
     'ukf88w9x': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'whv1j9o9': {
       'ru':
           '1. Длина:\n\nПравильная длина: Для выбора длины клюшки поставьте ее вертикально рядом с собой: кончик крюка должен находиться на уровне подбородка, если вы стоите в коньках, и на уровне носа, если вы стоите без них.\nЛичные предпочтения: Некоторые игроки предпочитают более короткие клюшки для лучшего контроля шайбы, другие – более длинные для более мощных бросков.\n\n2. Материалы:\n\nДерево: Традиционный материал, обеспечивающий хороший контроль и чувствительность. Такие клюшки тяжелее и менее долговечны.\n\nКомпозиты: Легкие и прочные, изготавливаются из углеродного волокна и других композитных материалов. Обеспечивают отличную производительность и долговечность.\n\nГибриды: Сочетание дерева и композитных материалов, предоставляющее баланс между традиционным ощущением и современными технологиями.\n\n3. Гибкость (Flex):\n\nВыбор гибкости: Гибкость клюшки измеряется в единицах Flex (например, 50 Flex, 75 Flex). Более низкий Flex означает более гибкую клюшку, более высокий - более жесткую.\n\nВозраст и сила: Для детей и подростков выбирайте более гибкие клюшки (от 30 до 50 Flex). Гибкость должна соответствовать силе игрока и его уровню игры.\n\n4. Загиб крюка (Curve):\n\nТип загиба: Загиб крюка влияет на контроль шайбы и тип ударов. Существуют разные типы загибов: от P92 (универсальный) до P28 (для мощных бросков).\n\nПредпочтения: Выбор загиба зависит от стиля игры и личных предпочтений. Попробуйте несколько вариантов, чтобы найти оптимальный для себя.\n\n5. Конструкция:\n\nОднокомпонентные клюшки: Цельная конструкция обеспечивает лучшую передачу энергии и меньший вес.\n\nДвухкомпонентные клюшки: Состоящие из отдельного крюка и рукоятки, такие клюшки позволяют заменять поврежденные части.',
-      'en': '',
+      'en': '1. Длина:\n\nПравильная длина: Для выбора длины клюшки поставьте ее вертикально рядом с собой: кончик крюка должен находиться на уровне подбородка, если вы стоите в коньках, и на уровне носа, если вы стоите без них.\nЛичные предпочтения: Некоторые игроки предпочитают более короткие клюшки для лучшего контроля шайбы, другие – более длинные для более мощных бросков.\n\n2. Материалы:\n\nДерево: Традиционный материал, обеспечивающий хороший контроль и чувствительность. Такие клюшки тяжелее и менее долговечны.\n\nКомпозиты: Легкие и прочные, изготавливаются из углеродного волокна и других композитных материалов. Обеспечивают отличную производительность и долговечность.\n\nГибриды: Сочетание дерева и композитных материалов, предоставляющее баланс между традиционным ощущением и современными технологиями.\n\n3. Гибкость (Flex):\n\nВыбор гибкости: Гибкость клюшки измеряется в единицах Flex (например, 50 Flex, 75 Flex). Более низкий Flex означает более гибкую клюшку, более высокий - более жесткую.\n\nВозраст и сила: Для детей и подростков выбирайте более гибкие клюшки (от 30 до 50 Flex). Гибкость должна соответствовать силе игрока и его уровню игры.\n\n4. Загиб крюка (Curve):\n\nТип загиба: Загиб крюка влияет на контроль шайбы и тип ударов. Существуют разные типы загибов: от P92 (универсальный) до P28 (для мощных бросков).\n\nПредпочтения: Выбор загиба зависит от стиля игры и личных предпочтений. Попробуйте несколько вариантов, чтобы найти оптимальный для себя.\n\n5. Конструкция:\n\nОднокомпонентные клюшки: Цельная конструкция обеспечивает лучшую передачу энергии и меньший вес.\n\nДвухкомпонентные клюшки: Состоящие из отдельного крюка и рукоятки, такие клюшки позволяют заменять поврежденные части.',
     },
     '1we2zix6': {
       'ru': 'Различия хоккейных клюшек',
-      'en': '',
+        'en': 'Differences in Hockey Sticks',
     },
     '9p5yz9jl': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Клюшки для начинающих более простые и недорогие, обеспечивают базовый контроль и долговечность.\n\nСредний и продвинутый уровень: Клюшки для опытных игроков изготавливаются из более продвинутых материалов, обеспечивают лучшую производительность и долговечность.\n\n2. Тип игры:\n\nНападающие: Предпочитают легкие и гибкие клюшки для быстрых бросков и маневров.\n\nЗащитники: Выбирают более жесткие и длинные клюшки для сильных бросков и преимущества в позиционной обороне.\n\n3. Позиция рук:\n\nПравша или левша: Выбор клюшки зависит от того, какая рука у вас ведущая. Клюшки для правшей и левшей имеют соответствующий загиб крюка.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Клюшки для начинающих более простые и недорогие, обеспечивают базовый контроль и долговечность.\n\nСредний и продвинутый уровень: Клюшки для опытных игроков изготавливаются из более продвинутых материалов, обеспечивают лучшую производительность и долговечность.\n\n2. Тип игры:\n\nНападающие: Предпочитают легкие и гибкие клюшки для быстрых бросков и маневров.\n\nЗащитники: Выбирают более жесткие и длинные клюшки для сильных бросков и преимущества в позиционной обороне.\n\n3. Позиция рук:\n\nПравша или левша: Выбор клюшки зависит от того, какая рука у вас ведущая. Клюшки для правшей и левшей имеют соответствующий загиб крюка.',
     },
     'l8sxpu86': {
       'ru': 'Общие советы:',
-      'en': '',
+        'en': 'General tips:',
     },
     'csrkz37x': {
       'ru':
           'Проверка: Всегда проверяйте клюшку перед покупкой, чтобы убедиться в правильной длине, гибкости и удобстве.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние клюшки, избегайте ударов о борта и других твердых поверхностей, чтобы продлить срок службы.',
-      'en': '',
+      'en': 'Проверка: Всегда проверяйте клюшку перед покупкой, чтобы убедиться в правильной длине, гибкости и удобстве.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние клюшки, избегайте ударов о борта и других твердых поверхностей, чтобы продлить срок службы.',
     },
     'o0jay50g': {
       'ru':
           'Правильно подобранная хоккейная клюшка обеспечит ребенку комфорт, контроль и уверенность на льду, что позволит ему максимально реализовать свой потенциал и наслаждаться игрой.',
-      'en': '',
+      'en': 'Правильно подобранная хоккейная клюшка обеспечит ребенку комфорт, контроль и уверенность на льду, что позволит ему максимально реализовать свой потенциал и наслаждаться игрой.',
     },
     '1r4m01z3': {
       'ru': 'Клюшки',
-      'en': '',
+        'en': 'Sticks',
     },
     's3s0xqrj': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // GlovesPage
@@ -9173,56 +9173,56 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'fnxnivb3': {
       'ru':
           'Хоккейные краги (перчатки) играют важную роль в защите рук и обеспечении комфорта и гибкости при игре. Вот описание хоккейных краг и советы по их выбору:',
-      'en': '',
+      'en': 'Хоккейные краги (перчатки) играют важную роль в защите рук и обеспечении комфорта и гибкости при игре. Вот описание хоккейных краг и советы по их выбору:',
     },
     'uh5emnlq': {
       'ru': 'Хоккейные краги',
-      'en': '',
+        'en': 'Hockey Gloves',
     },
     'aqp9zbv8': {
       'ru':
           'Описание: Хоккейные краги защищают руки, пальцы и запястья от ударов, порезов и других травм. Они состоят из внешнего защитного слоя, амортизирующих вставок и внутренней подкладки для комфорта. Основные элементы краг включают манжеты, пальцы и ладонь.',
-      'en': '',
+      'en': 'Описание: Хоккейные краги защищают руки, пальцы и запястья от ударов, порезов и других травм. Они состоят из внешнего защитного слоя, амортизирующих вставок и внутренней подкладки для комфорта. Основные элементы краг включают манжеты, пальцы и ладонь.',
     },
     'hazmh3vo': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     '08ezjc3g': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Краги должны плотно сидеть на руке, не сдавливая и не вызывая дискомфорта. Пальцы должны легко двигаться внутри перчатки.\nДлина: Обратите внимание на длину манжеты. Она должна обеспечивать достаточную защиту запястья и частично заходить на уровень налокотника.\n\n2. Защита:\n\nАмортизация: Проверьте наличие амортизирующих вставок на пальцах, тыльной стороне ладони и вокруг запястья. Эти вставки поглощают удары и защищают от травм.\nМатериалы: Краги изготавливаются из различных материалов, включая кожу, синтетические материалы и комбинацию обоих. Синтетические материалы легче и быстрее сохнут, а кожа обеспечивает отличную долговечность и гибкость.\n\n3. Подкладка и вентиляция:\n\nКомфорт: Внутренняя подкладка должна быть мягкой и комфортной. Некоторые модели имеют антимикробные и влагопоглощающие свойства для предотвращения неприятного запаха и поддержания сухости.\n\nВентиляция: Хорошие краги должны иметь вентиляционные отверстия для обеспечения циркуляции воздуха и предотвращения перегрева рук.\n\n4. Гибкость и подвижность:\n\nПодвижность пальцев: Пальцы краг должны легко сгибаться и разгибаться, обеспечивая надежный захват клюшки.\n\nМанжета: Регулируемая манжета позволяет настроить степень защиты и подвижности запястья. Некоторые модели имеют съемные манжеты для индивидуальной настройки.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Краги должны плотно сидеть на руке, не сдавливая и не вызывая дискомфорта. Пальцы должны легко двигаться внутри перчатки.\nДлина: Обратите внимание на длину манжеты. Она должна обеспечивать достаточную защиту запястья и частично заходить на уровень налокотника.\n\n2. Защита:\n\nАмортизация: Проверьте наличие амортизирующих вставок на пальцах, тыльной стороне ладони и вокруг запястья. Эти вставки поглощают удары и защищают от травм.\nМатериалы: Краги изготавливаются из различных материалов, включая кожу, синтетические материалы и комбинацию обоих. Синтетические материалы легче и быстрее сохнут, а кожа обеспечивает отличную долговечность и гибкость.\n\n3. Подкладка и вентиляция:\n\nКомфорт: Внутренняя подкладка должна быть мягкой и комфортной. Некоторые модели имеют антимикробные и влагопоглощающие свойства для предотвращения неприятного запаха и поддержания сухости.\n\nВентиляция: Хорошие краги должны иметь вентиляционные отверстия для обеспечения циркуляции воздуха и предотвращения перегрева рук.\n\n4. Гибкость и подвижность:\n\nПодвижность пальцев: Пальцы краг должны легко сгибаться и разгибаться, обеспечивая надежный захват клюшки.\n\nМанжета: Регулируемая манжета позволяет настроить степень защиты и подвижности запястья. Некоторые модели имеют съемные манжеты для индивидуальной настройки.',
     },
     '933x8ayp': {
       'ru': 'Различия хоккейных краг',
-      'en': '',
+        'en': 'Differences in Hockey Gloves',
     },
     'rz49akgw': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Краги для начинающих обычно более мягкие и обеспечивают базовую защиту и комфорт.\n\nСредний и продвинутый уровень: Краги для более опытных игроков имеют усиленную защиту, лучшую амортизацию и гибкость.\n\n2. Материалы:\n\nСинтетические материалы: Легкие и долговечные, быстро сохнут и обеспечивают хорошую вентиляцию.\n\nКожа: Прочные и гибкие, обеспечивают отличный комфорт и долговечность, но могут быть тяжелее и дольше сохнуть.\n\n3. Конструкция пальцев:\n\nЦельные пальцы: Обеспечивают лучшую защиту, но могут быть менее гибкими.\n\nРазделенные пальцы: Улучшают подвижность и гибкость пальцев, обеспечивая лучший контроль над клюшкой.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Краги для начинающих обычно более мягкие и обеспечивают базовую защиту и комфорт.\n\nСредний и продвинутый уровень: Краги для более опытных игроков имеют усиленную защиту, лучшую амортизацию и гибкость.\n\n2. Материалы:\n\nСинтетические материалы: Легкие и долговечные, быстро сохнут и обеспечивают хорошую вентиляцию.\n\nКожа: Прочные и гибкие, обеспечивают отличный комфорт и долговечность, но могут быть тяжелее и дольше сохнуть.\n\n3. Конструкция пальцев:\n\nЦельные пальцы: Обеспечивают лучшую защиту, но могут быть менее гибкими.\n\nРазделенные пальцы: Улучшают подвижность и гибкость пальцев, обеспечивая лучший контроль над клюшкой.',
     },
     'uuvplnvk': {
       'ru': 'Общие советы:',
-      'en': '',
+        'en': 'General tips:',
     },
     'uz10gnw2': {
       'ru':
           'Примерка: Всегда примеряйте краги перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние краг, проветривайте и просушивайте их после каждой тренировки или игры.',
-      'en': '',
+      'en': 'Примерка: Всегда примеряйте краги перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние краг, проветривайте и просушивайте их после каждой тренировки или игры.',
     },
     'py4lsxqo': {
       'ru':
           'Правильно подобранные хоккейные краги обеспечат ребенку защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
-      'en': '',
+      'en': 'Правильно подобранные хоккейные краги обеспечат ребенку защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
     },
     'q4gtzjji': {
       'ru': 'Краги',
-      'en': '',
+        'en': 'Gloves',
     },
     'cyv5dxfd': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // HelmetPage
@@ -9230,56 +9230,56 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'xz62fj8g': {
       'ru':
           'Хоккейный шлем - это один из самых важных элементов хоккейной экипировки, обеспечивающий защиту головы от ударов и травм. Вот описание хоккейных шлемов и советы по их выбору:',
-      'en': '',
+      'en': 'Хоккейный шлем - это один из самых важных элементов хоккейной экипировки, обеспечивающий защиту головы от ударов и травм. Вот описание хоккейных шлемов и советы по их выбору:',
     },
     'p0inpvb9': {
       'ru': 'Хоккейный шлем',
-      'en': '',
+        'en': 'Hockey Helmet',
     },
     '08jny66c': {
       'ru':
           'Описание: Хоккейный шлем защищает голову от ударов, падений и столкновений. Он состоит из жесткой внешней оболочки, внутренней амортизирующей подкладки и различных ремней и застежек для надежной фиксации. Некоторые модели также оснащены защитной маской или визором для защиты лица и глаз.',
-      'en': '',
+      'en': 'Описание: Хоккейный шлем защищает голову от ударов, падений и столкновений. Он состоит из жесткой внешней оболочки, внутренней амортизирующей подкладки и различных ремней и застежек для надежной фиксации. Некоторые модели также оснащены защитной маской или визором для защиты лица и глаз.',
     },
     '5eawmkpj': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'hcbg40pz': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Шлем должен плотно сидеть на голове, не болтаться и не давить. Между шлемом и головой не должно быть больших зазоров. При шевелении головы шлем не должен двигаться.\n\nРегулировка: Проверьте наличие регулируемых ремней и застежек для точной подгонки шлема по размеру головы.\n\n2. Защита:\n\nАмортизация: Внутренняя подкладка должна эффективно поглощать удары и защищать голову. Современные модели часто используют многослойные материалы для улучшенной защиты.\n\nВнешняя оболочка: Оболочка должна быть прочной и устойчивой к ударам. Многие шлемы изготавливаются из поликарбоната или других высокопрочных материалов.\n\n3. Комфорт и вентиляция:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, обеспечивать плотное прилегание к голове.\n\nВентиляция: Шлем должен иметь вентиляционные отверстия для обеспечения циркуляции воздуха и предотвращения перегрева головы.\n\n4. Защита лица:\n\nМаска или визор: Некоторые шлемы комплектуются полной маской (клеткой) или визором для защиты лица и глаз. Выбор зависит от предпочтений и уровня игры.\n\nСъемные элементы: Маска или визор должны легко сниматься и устанавливаться при необходимости.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Шлем должен плотно сидеть на голове, не болтаться и не давить. Между шлемом и головой не должно быть больших зазоров. При шевелении головы шлем не должен двигаться.\n\nРегулировка: Проверьте наличие регулируемых ремней и застежек для точной подгонки шлема по размеру головы.\n\n2. Защита:\n\nАмортизация: Внутренняя подкладка должна эффективно поглощать удары и защищать голову. Современные модели часто используют многослойные материалы для улучшенной защиты.\n\nВнешняя оболочка: Оболочка должна быть прочной и устойчивой к ударам. Многие шлемы изготавливаются из поликарбоната или других высокопрочных материалов.\n\n3. Комфорт и вентиляция:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, обеспечивать плотное прилегание к голове.\n\nВентиляция: Шлем должен иметь вентиляционные отверстия для обеспечения циркуляции воздуха и предотвращения перегрева головы.\n\n4. Защита лица:\n\nМаска или визор: Некоторые шлемы комплектуются полной маской (клеткой) или визором для защиты лица и глаз. Выбор зависит от предпочтений и уровня игры.\n\nСъемные элементы: Маска или визор должны легко сниматься и устанавливаться при необходимости.',
     },
     'ojv71dzc': {
       'ru': 'Различия хоккейных шлемов',
-      'en': '',
+        'en': 'Differences in Hockey Helmets',
     },
     'py6zj9eg': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Шлемы для начинающих обычно имеют базовую защиту и комфорт. Они легкие и просты в регулировке.\n\nСредний и продвинутый уровень: Шлемы для более опытных игроков обеспечивают улучшенную защиту, лучшую амортизацию и дополнительные функции, такие как более сложные системы вентиляции и регулировки.\n\n2. Материалы:\n\nПоликарбонат: Легкий и прочный материал, обеспечивающий хорошую защиту.\n\nКомпозитные материалы: Более легкие и прочные, обеспечивающие высший уровень защиты и комфорта.\n\n3. Конструкция и дизайн:\n\nМодульная конструкция: Некоторые шлемы имеют модульную конструкцию, позволяющую заменять отдельные элементы при износе или повреждении.\n\nАэродинамический дизайн: Улучшает вентиляцию и снижает сопротивление воздуха при движении.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Шлемы для начинающих обычно имеют базовую защиту и комфорт. Они легкие и просты в регулировке.\n\nСредний и продвинутый уровень: Шлемы для более опытных игроков обеспечивают улучшенную защиту, лучшую амортизацию и дополнительные функции, такие как более сложные системы вентиляции и регулировки.\n\n2. Материалы:\n\nПоликарбонат: Легкий и прочный материал, обеспечивающий хорошую защиту.\n\nКомпозитные материалы: Более легкие и прочные, обеспечивающие высший уровень защиты и комфорта.\n\n3. Конструкция и дизайн:\n\nМодульная конструкция: Некоторые шлемы имеют модульную конструкцию, позволяющую заменять отдельные элементы при износе или повреждении.\n\nАэродинамический дизайн: Улучшает вентиляцию и снижает сопротивление воздуха при движении.',
     },
     'vji5ukq0': {
       'ru': 'Общие советы:',
-      'en': '',
+        'en': 'General tips:',
     },
     '378o2dlf': {
       'ru':
           'Примерка: Всегда примеряйте шлем перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние шлема, чистите его и проверяйте крепления и застежки.',
-      'en': '',
+      'en': 'Примерка: Всегда примеряйте шлем перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние шлема, чистите его и проверяйте крепления и застежки.',
     },
     'yqypx07h': {
       'ru':
           'Правильно подобранный хоккейный шлем обеспечит ребенку максимальную защиту и комфорт на льду, что позволит избежать травм и сосредоточиться на игре.',
-      'en': '',
+      'en': 'Правильно подобранный хоккейный шлем обеспечит ребенку максимальную защиту и комфорт на льду, что позволит избежать травм и сосредоточиться на игре.',
     },
     'dc3mly0i': {
       'ru': 'Шлемы',
-      'en': '',
+        'en': 'Helmets',
     },
     '1dfqx2p7': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // HockeyFactsPage
@@ -9290,7 +9290,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     'txv15ogi': {
       'ru': 'Происхождение хоккея',
-      'en': '',
+        'en': 'Origin of Hockey',
     },
     'likj0al8': {
       'ru':
@@ -9300,120 +9300,120 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '1nb4eik3': {
       'ru': 'Факт №2',
-      'en': '',
+        'en': 'Fact #2',
     },
     'ytwnpni6': {
       'ru': 'Происхождение и развитие клюшек и шайб',
-      'en': '',
+        'en': 'Origin and Development of Sticks and Pucks',
     },
     'u4osyorh': {
       'ru':
           'Клюшка для хоккея:\n\nКлюшка, как важный инструмент в хоккее, имеет долгую историю. Наиболее ранние формы клюшек появились вместе с развитием хоккея на льду в 19 веке. Прежде чем клюшка стала неотъемлемой частью современного хоккея, её конструкция и материалы претерпели значительные изменения.\n\nИсторическая информация:  В начале 1870-х годов, когда хоккей на льду начал формироваться в его современном виде в Канаде, клюшки были сделаны вручную из дерева. Первоначально они имели простую форму и напоминали клюшки, используемые в других играх, таких как лакросс.\n\nРазвитие: В 1920-х годах клюшки начали активно изменяться. Появились более сложные конструкции, и в 1960-х годах начали использоваться клюшки из более лёгких и прочных материалов, таких как углеродное волокно и композиты. Это позволило игрокам улучшить контроль над шайбой и увеличить скорость игры.\n\nШайба для хоккея:\n\nШайба, как ключевой элемент хоккея, также имеет интересную историю. Первоначально в хоккее использовались различные объекты, но с течением времени был установлен стандарт для шайбы.\n\nИсторическая информация: В ранних версиях хоккея, таких как хоккей на льду, использовались различные предметы, такие как деревянные диски. Однако с 1880-х годов шайба начала стандартизироваться. В этот период начали использовать шайбы из резины, которые были круглой формы и имели определённые размеры, что значительно улучшило качество игры.\n\nРазвитие материалов: В конце 19 века резиновая шайба приобрела окончательную форму, которая используется и по сей день. Современные шайбы изготавливаются из синтетических материалов и проходят специальную обработку для повышения их прочности и устойчивости к низким температурам.\n\nЗаключение\n\nКлюшка и шайба, как неотъемлемые элементы хоккея, имеют долгую и увлекательную историю, которая отражает развитие и эволюцию этого спорта. С момента их появления до современных технологий, изменения в конструкции и материалах клюшек и шайб значительно улучшили качество игры и сделали хоккей более захватывающим и доступным для зрителей и игроков по всему миру.',
-      'en': '',
+      'en': 'Клюшка для хоккея:\n\nКлюшка, как важный инструмент в хоккее, имеет долгую историю. Наиболее ранние формы клюшек появились вместе с развитием хоккея на льду в 19 веке. Прежде чем клюшка стала неотъемлемой частью современного хоккея, её конструкция и материалы претерпели значительные изменения.\n\nИсторическая информация:  В начале 1870-х годов, когда хоккей на льду начал формироваться в его современном виде в Канаде, клюшки были сделаны вручную из дерева. Первоначально они имели простую форму и напоминали клюшки, используемые в других играх, таких как лакросс.\n\nРазвитие: В 1920-х годах клюшки начали активно изменяться. Появились более сложные конструкции, и в 1960-х годах начали использоваться клюшки из более лёгких и прочных материалов, таких как углеродное волокно и композиты. Это позволило игрокам улучшить контроль над шайбой и увеличить скорость игры.\n\nШайба для хоккея:\n\nШайба, как ключевой элемент хоккея, также имеет интересную историю. Первоначально в хоккее использовались различные объекты, но с течением времени был установлен стандарт для шайбы.\n\nИсторическая информация: В ранних версиях хоккея, таких как хоккей на льду, использовались различные предметы, такие как деревянные диски. Однако с 1880-х годов шайба начала стандартизироваться. В этот период начали использовать шайбы из резины, которые были круглой формы и имели определённые размеры, что значительно улучшило качество игры.\n\nРазвитие материалов: В конце 19 века резиновая шайба приобрела окончательную форму, которая используется и по сей день. Современные шайбы изготавливаются из синтетических материалов и проходят специальную обработку для повышения их прочности и устойчивости к низким температурам.\n\nЗаключение\n\nКлюшка и шайба, как неотъемлемые элементы хоккея, имеют долгую и увлекательную историю, которая отражает развитие и эволюцию этого спорта. С момента их появления до современных технологий, изменения в конструкции и материалах клюшек и шайб значительно улучшили качество игры и сделали хоккей более захватывающим и доступным для зрителей и игроков по всему миру.',
     },
     'wk5pseat': {
       'ru': 'Факт №3',
-      'en': '',
+        'en': 'Fact #3',
     },
     '5jcep5ug': {
       'ru': 'Современный стандарт хоккейных площадок',
-      'en': '',
+        'en': 'Modern Standard for Hockey Rinks',
     },
     's8olv7jx': {
       'ru':
           'Современные хоккейные площадки имеют строгие стандарты размеров и характеристик, которые регулируются международными хоккейными федерациями и лигами, включая Международную федерацию хоккея (IIHF) и Национальную хоккейную лигу (НХЛ).\n\n1. Размеры и разметка площадки:\n\nРазмеры: Согласно стандартам IIHF, размеры хоккейной площадки составляют 60 метров в ширину и 30 метров в длину (197 футов на 98 футов). Площадка НХЛ немного отличается, её размеры составляют 61 метр в ширину и 26 метров в длину (200 футов на 85 футов). Площадка окружена бортиками высотой от 1,22 до 1,42 метра (4 до 4,5 футов). В КХЛ, на данный момент, по большей части используются площадки 61 на 26.\n\nРазметка: На площадке нанесены линии, определяющие зоны для игры. Основные линии включают центральную линию, линии синей и красной зон, а также линии ворот. Также присутствуют круги в центральной зоне, где проводятся вбрасывания, и линии, разделяющие зоны для смены игроков.\n\n2. Ледовое покрытие:\n\nКачество льда: Ледовое покрытие должно быть ровным и без трещин. Толщина льда обычно составляет 2,5-3 см (1-1,2 дюйма). Для обеспечения надлежащих условий игры, регулярно производится обновление льда и его поддержание в хорошем состоянии.',
-      'en': '',
+      'en': 'Современные хоккейные площадки имеют строгие стандарты размеров и характеристик, которые регулируются международными хоккейными федерациями и лигами, включая Международную федерацию хоккея (IIHF) и Национальную хоккейную лигу (НХЛ).\n\n1. Размеры и разметка площадки:\n\nРазмеры: Согласно стандартам IIHF, размеры хоккейной площадки составляют 60 метров в ширину и 30 метров в длину (197 футов на 98 футов). Площадка НХЛ немного отличается, её размеры составляют 61 метр в ширину и 26 метров в длину (200 футов на 85 футов). Площадка окружена бортиками высотой от 1,22 до 1,42 метра (4 до 4,5 футов). В КХЛ, на данный момент, по большей части используются площадки 61 на 26.\n\nРазметка: На площадке нанесены линии, определяющие зоны для игры. Основные линии включают центральную линию, линии синей и красной зон, а также линии ворот. Также присутствуют круги в центральной зоне, где проводятся вбрасывания, и линии, разделяющие зоны для смены игроков.\n\n2. Ледовое покрытие:\n\nКачество льда: Ледовое покрытие должно быть ровным и без трещин. Толщина льда обычно составляет 2,5-3 см (1-1,2 дюйма). Для обеспечения надлежащих условий игры, регулярно производится обновление льда и его поддержание в хорошем состоянии.',
     },
     'awne11rl': {
       'ru': 'Факт №4',
-      'en': '',
+        'en': 'Fact #4',
     },
     'qx4ivbw1': {
       'ru': 'Современный стандарт хоккейных ворот',
-      'en': '',
+        'en': 'Modern Standard for Hockey Goals',
     },
     'irlau5b1': {
       'ru':
           'Хоккейные ворота имеют чётко определённые стандарты, которые должны соблюдаться для обеспечения честной игры и безопасности игроков.\n\n1. Размеры ворот:\n\nСтандарт IIHF: По международным стандартам ворот имеют ширину 1,83 метра (6 футов) и высоту 1,22 метра (4 фута). Глубина ворот от задней линии до передней части составляет 0,91 метра (3 фута).\n\nСтандарт НХЛ: В НХЛ размеры ворот аналогичны международным стандартам, с шириной 1,83 метра (6 футов) и высотой 1,22 метра (4 фута), но с возможными небольшими вариациями в глубине в зависимости от особенностей арены.\n\n2. Конструкция и безопасность:\n\nМатериалы: Ворота изготавливаются из прочного металла, обычно алюминия или стали, и обтягиваются сеткой из нейлона или синтетического материала.\n\nУстойчивость: Для обеспечения устойчивости ворота крепятся к площадке с помощью специальной системы, предотвращающей их смещение при столкновениях.\n\nБезопасность: Ворота оснащены специальными защитными накладками и рамами, чтобы снизить риск травм для игроков. Эти накладки помогают уменьшить силу удара и защитить игроков от острых краёв ворот.',
-      'en': '',
+      'en': 'Хоккейные ворота имеют чётко определённые стандарты, которые должны соблюдаться для обеспечения честной игры и безопасности игроков.\n\n1. Размеры ворот:\n\nСтандарт IIHF: По международным стандартам ворот имеют ширину 1,83 метра (6 футов) и высоту 1,22 метра (4 фута). Глубина ворот от задней линии до передней части составляет 0,91 метра (3 фута).\n\nСтандарт НХЛ: В НХЛ размеры ворот аналогичны международным стандартам, с шириной 1,83 метра (6 футов) и высотой 1,22 метра (4 фута), но с возможными небольшими вариациями в глубине в зависимости от особенностей арены.\n\n2. Конструкция и безопасность:\n\nМатериалы: Ворота изготавливаются из прочного металла, обычно алюминия или стали, и обтягиваются сеткой из нейлона или синтетического материала.\n\nУстойчивость: Для обеспечения устойчивости ворота крепятся к площадке с помощью специальной системы, предотвращающей их смещение при столкновениях.\n\nБезопасность: Ворота оснащены специальными защитными накладками и рамами, чтобы снизить риск травм для игроков. Эти накладки помогают уменьшить силу удара и защитить игроков от острых краёв ворот.',
     },
     'v9wa54hg': {
       'ru': 'Факт №5',
-      'en': '',
+        'en': 'Fact #5',
     },
     'srcgt07t': {
       'ru': 'Количество хоккейных стран',
-      'en': '',
+        'en': 'Number of hockey countries',
     },
     'zeidrm00': {
       'ru':
           'На сегодняшний день хоккей является одним из самых популярных видов спорта, охватывающим более 80 стран по всему миру. Этот факт подчеркивает глобальное распространение хоккея и его значимость в различных уголках планеты.\n\nПо состоянию на 2024 год, Международная федерация хоккея (IIHF) насчитывает 82 национальные федерации, которые являются её полноправными членами. Это означает, что хоккеем занимаются более 80 стран, где существуют национальные лиги, клубы, а также организуются чемпионаты и турниры.\n\n2. Географическое распространение:\n\nХоккей активно разворачивается не только в традиционно хоккейных странах, таких как Россия, Канада, США, Швеция и Финляндия, но и в таких странах, где хоккей был относительно новым видом спорта. Например, Китай, Латвия, Казахстан и Южная Корея стали важными участниками международных соревнований.\n\n3. Увеличение числа стран:\n\nПопулярность хоккея продолжает расти, и количество стран, где активно занимаются хоккеем, продолжает увеличиваться. В последние годы хоккей стал развиваться в странах, где традиционно преобладали другие виды спорта, таких как Япония, Венгрия, Словения и даже страны Африки, такие как Марокко и Египет.\n\nЭта широкая география свидетельствует о том, что хоккей продолжает развиваться и привлекать внимание всё новых и новых участников по всему миру.',
-      'en': '',
+      'en': 'На сегодняшний день хоккей является одним из самых популярных видов спорта, охватывающим более 80 стран по всему миру. Этот факт подчеркивает глобальное распространение хоккея и его значимость в различных уголках планеты.\n\nПо состоянию на 2024 год, Международная федерация хоккея (IIHF) насчитывает 82 национальные федерации, которые являются её полноправными членами. Это означает, что хоккеем занимаются более 80 стран, где существуют национальные лиги, клубы, а также организуются чемпионаты и турниры.\n\n2. Географическое распространение:\n\nХоккей активно разворачивается не только в традиционно хоккейных странах, таких как Россия, Канада, США, Швеция и Финляндия, но и в таких странах, где хоккей был относительно новым видом спорта. Например, Китай, Латвия, Казахстан и Южная Корея стали важными участниками международных соревнований.\n\n3. Увеличение числа стран:\n\nПопулярность хоккея продолжает расти, и количество стран, где активно занимаются хоккеем, продолжает увеличиваться. В последние годы хоккей стал развиваться в странах, где традиционно преобладали другие виды спорта, таких как Япония, Венгрия, Словения и даже страны Африки, такие как Марокко и Египет.\n\nЭта широкая география свидетельствует о том, что хоккей продолжает развиваться и привлекать внимание всё новых и новых участников по всему миру.',
     },
     'vkmk0wig': {
       'ru': 'Факт №6',
-      'en': '',
+        'en': 'Fact #6',
     },
     'wgzuwxm1': {
       'ru': 'Хоккейные правила',
-      'en': '',
+        'en': 'Hockey Rules',
     },
     'n2s7ibsk': {
       'ru':
           '1. Количество хоккейных правил:\n\nХоккей имеет множество правил, которые регламентируют все аспекты игры. Международные правила хоккея на льду, как правило, включают около 200-250 правил и положений, охватывающих все аспекты игры, включая правила поведения, технические аспекты, штрафы и процедуру игры. Эти правила охватывают такие моменты, как количество игроков, продолжительность матчей, нарушения, и другие важные аспекты игры.\n\n2. Утверждение правил:\n\nПравила хоккея утверждаются несколькими организациями, в зависимости от уровня и типа соревнований:\n\nМеждународная федерация хоккея (IIHF): IIHF устанавливает правила для международных соревнований, включая Чемпионаты мира и Олимпийские игры. Эти правила применяются для всех международных матчей и турниров, проводимых под эгидой IIHF.\n\nКонтинентальная хоккейная лига (КХЛ): КХЛ имеет свои собственные правила, которые могут отличаться от международных стандартов. Эти правила касаются матчей, проводимых в КХЛ, включая особенности проведения игр, систему штрафов и другие аспекты, специфичные для лиги.\n\nНациональные федерации: В каждой стране также могут быть свои национальные хоккейные федерации, которые могут вносить изменения или адаптировать правила для национальных соревнований и лиг, чтобы соответствовать местным условиям и требованиям.',
-      'en': '',
+      'en': '1. Количество хоккейных правил:\n\nХоккей имеет множество правил, которые регламентируют все аспекты игры. Международные правила хоккея на льду, как правило, включают около 200-250 правил и положений, охватывающих все аспекты игры, включая правила поведения, технические аспекты, штрафы и процедуру игры. Эти правила охватывают такие моменты, как количество игроков, продолжительность матчей, нарушения, и другие важные аспекты игры.\n\n2. Утверждение правил:\n\nПравила хоккея утверждаются несколькими организациями, в зависимости от уровня и типа соревнований:\n\nМеждународная федерация хоккея (IIHF): IIHF устанавливает правила для международных соревнований, включая Чемпионаты мира и Олимпийские игры. Эти правила применяются для всех международных матчей и турниров, проводимых под эгидой IIHF.\n\nКонтинентальная хоккейная лига (КХЛ): КХЛ имеет свои собственные правила, которые могут отличаться от международных стандартов. Эти правила касаются матчей, проводимых в КХЛ, включая особенности проведения игр, систему штрафов и другие аспекты, специфичные для лиги.\n\nНациональные федерации: В каждой стране также могут быть свои национальные хоккейные федерации, которые могут вносить изменения или адаптировать правила для национальных соревнований и лиг, чтобы соответствовать местным условиям и требованиям.',
     },
     '21wpj2fn': {
       'ru': 'Факт №7',
-      'en': '',
+        'en': 'Fact #7',
     },
     'ul7v42ig': {
       'ru': 'Наибольшее количество титулов Чемпиона Мира',
-      'en': '',
+        'en': 'Most World Championship Titles',
     },
     '15gbm0c0': {
       'ru':
           'Владислав Третьяк — обладатель наибольшего количества титулов чемпиона мира по хоккею\n\nЛегендарный вратарь сборной СССР, обладает рекордом по количеству титулов чемпиона мира. Он стал 10-кратным чемпионом мира, завоевав титулы в следующие годы: 1970, 1971, 1973-1975, 1978, 1979, 1981, 1982 и 1983. В эти годы сборная СССР доминировала на мировой арене, а Третьяк был её ключевым игроком.\n\nВ СССР существовала одна из лучших систем подготовки хоккеистов. Третьяк тренировался в условиях жесткой конкуренции под руководством ведущих тренеров. В сборной СССР он играл с выдающимися игроками, такими как Валерий Харламов, Борис Михайлов и Вячеслав Фетисов. \n\nКомандная игра и тактика были на высочайшем уровне, а сам Третьяк отличался невероятной реакцией, выносливостью и умением предугадывать действия соперника. Его достижения на международной арене и выдающаяся карьера остаются образцом для многих хоккеистов.',
-      'en': '',
+      'en': 'Владислав Третьяк — обладатель наибольшего количества титулов чемпиона мира по хоккею\n\nЛегендарный вратарь сборной СССР, обладает рекордом по количеству титулов чемпиона мира. Он стал 10-кратным чемпионом мира, завоевав титулы в следующие годы: 1970, 1971, 1973-1975, 1978, 1979, 1981, 1982 и 1983. В эти годы сборная СССР доминировала на мировой арене, а Третьяк был её ключевым игроком.\n\nВ СССР существовала одна из лучших систем подготовки хоккеистов. Третьяк тренировался в условиях жесткой конкуренции под руководством ведущих тренеров. В сборной СССР он играл с выдающимися игроками, такими как Валерий Харламов, Борис Михайлов и Вячеслав Фетисов. \n\nКомандная игра и тактика были на высочайшем уровне, а сам Третьяк отличался невероятной реакцией, выносливостью и умением предугадывать действия соперника. Его достижения на международной арене и выдающаяся карьера остаются образцом для многих хоккеистов.',
     },
     '5j1nm0rv': {
       'ru': 'Факт №8',
-      'en': '',
+        'en': 'Fact #8',
     },
     'ltjffmx2': {
       'ru': 'Система чемпионата в КХЛ',
-      'en': '',
+        'en': 'Championship System in the KHL',
     },
     'fpar53rf': {
       'ru':
           'На 2024 год в Континентальной хоккейной лиге (КХЛ) играют 23 команды. Лига использует следующую систему соревнований:\n\nРегулярный чемпионат: Команды играют между собой в регулярном чемпионате, который состоит из 68 матчей для каждой команды. Команды делятся на две конференции — Западную и Восточную — по 11 и 12 команд соответственно.\n\nПлей-офф: По итогам регулярного чемпионата 16 команд (по 8 из каждой конференции) выходят в плей-офф. Плей-офф проходит по системе серий до четырех побед. Команды определяются по результатам матчей регулярного чемпионата и играют в серии матчей, где побеждает тот, кто первым достигнет четырех побед.\nНовинкой сезона 23/24 стал перекрестный плей-офф начиная с 1/4 финала.\n\nФинал Кубка Гагарина: Две команды победительницы полуфиналов встречаются в финале Кубка Гагарина, где разыгрывается титул чемпиона КХЛ.\n\nЭта система позволяет определить сильнейшую команду лиги по итогам регулярного сезона и плей-офф.',
-      'en': '',
+      'en': 'На 2024 год в Континентальной хоккейной лиге (КХЛ) играют 23 команды. Лига использует следующую систему соревнований:\n\nРегулярный чемпионат: Команды играют между собой в регулярном чемпионате, который состоит из 68 матчей для каждой команды. Команды делятся на две конференции — Западную и Восточную — по 11 и 12 команд соответственно.\n\nПлей-офф: По итогам регулярного чемпионата 16 команд (по 8 из каждой конференции) выходят в плей-офф. Плей-офф проходит по системе серий до четырех побед. Команды определяются по результатам матчей регулярного чемпионата и играют в серии матчей, где побеждает тот, кто первым достигнет четырех побед.\nНовинкой сезона 23/24 стал перекрестный плей-офф начиная с 1/4 финала.\n\nФинал Кубка Гагарина: Две команды победительницы полуфиналов встречаются в финале Кубка Гагарина, где разыгрывается титул чемпиона КХЛ.\n\nЭта система позволяет определить сильнейшую команду лиги по итогам регулярного сезона и плей-офф.',
     },
     '06r714z5': {
       'ru': 'Факт №9',
-      'en': '',
+        'en': 'Fact #9',
     },
     'vbq7vpz9': {
       'ru': 'Россияне в Зале Хоккейной Славы НХЛ',
-      'en': '',
+        'en': 'Russians in the NHL Hockey Hall of Fame',
     },
     'a2r3d8zs': {
       'ru':
           'На данный момент в хоккейный Зал славы включены имена десяти советских и российских хоккеистов. Это Владислав Третьяк (1989), Вячеслав Фетисов (2001), Валерий Харламов (2005), Игорь Ларионов (2008), Павел Буре (2012), Сергей Федоров (2015), Сергей Макаров (2016), Александр Якушев (2018) и Сергей Зубов (2019).\nА в ноябре 2024 года, этот почетный список пополнит Павел Дацюк.',
-      'en': '',
+      'en': 'На данный момент в хоккейный Зал славы включены имена десяти советских и российских хоккеистов. Это Владислав Третьяк (1989), Вячеслав Фетисов (2001), Валерий Харламов (2005), Игорь Ларионов (2008), Павел Буре (2012), Сергей Федоров (2015), Сергей Макаров (2016), Александр Якушев (2018) и Сергей Зубов (2019).\nА в ноябре 2024 года, этот почетный список пополнит Павел Дацюк.',
     },
     '8azv13m4': {
       'ru': 'Факт №10',
-      'en': '',
+        'en': 'Fact #10',
     },
     'ilk2cf7h': {
       'ru': 'Первый хоккейный матч',
-      'en': '',
+        'en': 'First hockey match',
     },
     'il4l1mac': {
       'ru':
           'Первый хоккейный матч состоялся в Монреале, 3 марта 1875 года. И он сильно отличался от современного хоккея. В той игре участвовало по 9 человек от каждой команды.\n\nИгра прошла в крытом катке Victoria Skating Rink. Игроки использовали клюшки и плоский круг из дерева (шайба появилась позже), а правила были адаптированы из других игр, таких как лакросс и футбол.\n\nИз-за большого количества игроков на маленькой площадке игра была хаотичной и интенсивной. Специальной позиции вратаря не существовало, и защитники часто исполняли эту роль.\n\nЭтот исторический матч ознаменовал рождение организованного хоккея и стал началом эволюции игры, которую мы знаем сегодня.',
-      'en': '',
+      'en': 'Первый хоккейный матч состоялся в Монреале, 3 марта 1875 года. И он сильно отличался от современного хоккея. В той игре участвовало по 9 человек от каждой команды.\n\nИгра прошла в крытом катке Victoria Skating Rink. Игроки использовали клюшки и плоский круг из дерева (шайба появилась позже), а правила были адаптированы из других игр, таких как лакросс и футбол.\n\nИз-за большого количества игроков на маленькой площадке игра была хаотичной и интенсивной. Специальной позиции вратаря не существовало, и защитники часто исполняли эту роль.\n\nЭтот исторический матч ознаменовал рождение организованного хоккея и стал началом эволюции игры, которую мы знаем сегодня.',
     },
     '4xhduf3y': {
       'ru': 'Хоккейные Факты',
@@ -9421,7 +9421,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     },
     '9lhztia3': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // GKarmourPage
@@ -9429,137 +9429,137 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'vh5af9gd': {
       'ru':
           'Вратарская экипировка имеет свои особенности и предназначена для максимальной защиты и комфорта вратаря. Вот описание основных элементов вратарской защиты и советы по их выбору:',
-      'en': '',
+      'en': 'Вратарская экипировка имеет свои особенности и предназначена для максимальной защиты и комфорта вратаря. Вот описание основных элементов вратарской защиты и советы по их выбору:',
     },
     'fcae7ih3': {
       'ru': 'Нагрудник',
-      'en': '',
+        'en': 'Chest Protector',
     },
     '05thot5e': {
       'ru':
           'Описание: Нагрудник вратаря защищает грудную клетку, ребра, плечи и верхнюю часть рук от шайб и столкновений. Он состоит из многослойных защитных вставок и амортизирующих материалов.',
-      'en': '',
+      'en': 'Описание: Нагрудник вратаря защищает грудную клетку, ребра, плечи и верхнюю часть рук от шайб и столкновений. Он состоит из многослойных защитных вставок и амортизирующих материалов.',
     },
     't0p2wt5d': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'wfu3ja6u': {
       'ru':
           'Размер: Нагрудник должен плотно прилегать к телу, не ограничивая движения. Обратите внимание на регулируемые ремни и застежки для точной подгонки.\n\nЗащита: Проверьте качество защиты плеч, груди и ребер. Хороший нагрудник имеет усиленные зоны для дополнительной безопасности.\n\nКомфорт: Убедитесь, что нагрудник не вызывает дискомфорта и не ограничивает подвижность вратаря.',
-      'en': '',
+      'en': 'Размер: Нагрудник должен плотно прилегать к телу, не ограничивая движения. Обратите внимание на регулируемые ремни и застежки для точной подгонки.\n\nЗащита: Проверьте качество защиты плеч, груди и ребер. Хороший нагрудник имеет усиленные зоны для дополнительной безопасности.\n\nКомфорт: Убедитесь, что нагрудник не вызывает дискомфорта и не ограничивает подвижность вратаря.',
     },
     '3kpyvr44': {
       'ru': 'Вратарские шорты',
-      'en': '',
+        'en': 'Goalie Pants',
     },
     '4q211i8p': {
       'ru':
           'Описание: Вратарские шорты защищают бедра, пах, ягодицы и нижнюю часть спины от ударов шайбой и столкновений. Они изготавливаются из прочных материалов с амортизирующими вставками и обеспечивают свободу движений.',
-      'en': '',
+      'en': 'Описание: Вратарские шорты защищают бедра, пах, ягодицы и нижнюю часть спины от ударов шайбой и столкновений. Они изготавливаются из прочных материалов с амортизирующими вставками и обеспечивают свободу движений.',
     },
     '2ccxhbuz': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'wh2q6m5q': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Шорты должны плотно сидеть на талии и бедрах, не сковывая движений. Убедитесь, что они не слишком свободные и не слишком тесные.\n\nРегулировка: Проверьте наличие регулируемых ремней или шнурков, чтобы можно было настроить шорты по фигуре.\n\n2. Защита:\n\nАмортизация: Шорты должны иметь защитные вставки из пены или композитных материалов, которые поглощают удары. Особое внимание уделите защите бедер и таза.\n\nПрочность: Обратите внимание на прочность материалов и швов. Шорты должны выдерживать интенсивные нагрузки и частые удары.\n\n3. Комфорт:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные панели для улучшения циркуляции воздуха и предотвращения перегрева.\n\n4. Гибкость и подвижность:\n\nДизайн: Шорты должны обеспечивать свободу движений, не ограничивая подвижность вратаря. Обратите внимание на конструкцию и наличие гибких вставок.\n\nЛегкость: Легкие материалы помогут уменьшить нагрузку и улучшить подвижность.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Шорты должны плотно сидеть на талии и бедрах, не сковывая движений. Убедитесь, что они не слишком свободные и не слишком тесные.\n\nРегулировка: Проверьте наличие регулируемых ремней или шнурков, чтобы можно было настроить шорты по фигуре.\n\n2. Защита:\n\nАмортизация: Шорты должны иметь защитные вставки из пены или композитных материалов, которые поглощают удары. Особое внимание уделите защите бедер и таза.\n\nПрочность: Обратите внимание на прочность материалов и швов. Шорты должны выдерживать интенсивные нагрузки и частые удары.\n\n3. Комфорт:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные панели для улучшения циркуляции воздуха и предотвращения перегрева.\n\n4. Гибкость и подвижность:\n\nДизайн: Шорты должны обеспечивать свободу движений, не ограничивая подвижность вратаря. Обратите внимание на конструкцию и наличие гибких вставок.\n\nЛегкость: Легкие материалы помогут уменьшить нагрузку и улучшить подвижность.',
     },
     'r97su3qy': {
       'ru': 'Шлем',
-      'en': '',
+        'en': 'Helmet',
     },
     'bwu1cr2f': {
       'ru':
           'Описание: Шлем вратаря защищает голову, лицо и шею от ударов шайбой и столкновений. Он состоит из жесткой внешней оболочки, внутренней амортизирующей подкладки и маски (клетки) для защиты лица.',
-      'en': '',
+      'en': 'Описание: Шлем вратаря защищает голову, лицо и шею от ударов шайбой и столкновений. Он состоит из жесткой внешней оболочки, внутренней амортизирующей подкладки и маски (клетки) для защиты лица.',
     },
     'uf3euy7q': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     '5wuembi5': {
       'ru':
           'Размер: Шлем должен плотно сидеть на голове, не болтаться и не давить. Регулируемые ремни и застежки позволяют подгонять шлем по размеру.\n\nЗащита: Обратите внимание на качество амортизации и защиту лицевой части. Маска должна быть прочной и надежной.\n\nКомфорт и вентиляция: Внутренняя подкладка должна быть мягкой и комфортной. Вентиляционные отверстия обеспечивают циркуляцию воздуха и предотвращают перегрев.',
-      'en': '',
+      'en': 'Размер: Шлем должен плотно сидеть на голове, не болтаться и не давить. Регулируемые ремни и застежки позволяют подгонять шлем по размеру.\n\nЗащита: Обратите внимание на качество амортизации и защиту лицевой части. Маска должна быть прочной и надежной.\n\nКомфорт и вентиляция: Внутренняя подкладка должна быть мягкой и комфортной. Вентиляционные отверстия обеспечивают циркуляцию воздуха и предотвращают перегрев.',
     },
     'jbwlelr9': {
       'ru': 'Щитки',
-      'en': '',
+        'en': 'Shin Guards',
     },
     'djnh98hn': {
       'ru':
           'Описание: Щитки защищают колени, голени и ноги вратаря от ударов шайбой и падений. Они изготовлены из прочных материалов с амортизирующими вставками.',
-      'en': '',
+      'en': 'Описание: Щитки защищают колени, голени и ноги вратаря от ударов шайбой и падений. Они изготовлены из прочных материалов с амортизирующими вставками.',
     },
     'vcsqt96a': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'gj3ifw3d': {
       'ru':
           'Размер: Щитки должны закрывать колени и большую часть голени. Обратите внимание на длину щитков и регулировку ремней для надежной фиксации.\n\nФорма: Выбирайте щитки, которые обеспечивают хорошую мобильность и удобство в различных положениях.\n\nМатериалы: Щитки из высококачественных материалов обеспечивают лучшую защиту и долговечность.',
-      'en': '',
+      'en': 'Размер: Щитки должны закрывать колени и большую часть голени. Обратите внимание на длину щитков и регулировку ремней для надежной фиксации.\n\nФорма: Выбирайте щитки, которые обеспечивают хорошую мобильность и удобство в различных положениях.\n\nМатериалы: Щитки из высококачественных материалов обеспечивают лучшую защиту и долговечность.',
     },
     'muc0o1pa': {
       'ru': 'Ракушка',
-      'en': '',
+        'en': 'Athletic Cup',
     },
     '4bjgjr4v': {
       'ru':
           'Описание: Ракушка защищает паховую область вратаря от ударов. Она состоит из твердой внешней оболочки и мягкой внутренней подкладки.',
-      'en': '',
+      'en': 'Описание: Ракушка защищает паховую область вратаря от ударов. Она состоит из твердой внешней оболочки и мягкой внутренней подкладки.',
     },
     'pnxzch0r': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'met4cxta': {
       'ru':
           'Размер: Ракушка должна плотно прилегать и обеспечивать надежную защиту.\n\nКомфорт: Убедитесь, что ракушка не натирает и не вызывает дискомфорта.\n\nКрепление: Обратите внимание на способы крепления (ремни, трусы с встроенной ракушкой) для надежной фиксации.',
-      'en': '',
+      'en': 'Размер: Ракушка должна плотно прилегать и обеспечивать надежную защиту.\n\nКомфорт: Убедитесь, что ракушка не натирает и не вызывает дискомфорта.\n\nКрепление: Обратите внимание на способы крепления (ремни, трусы с встроенной ракушкой) для надежной фиксации.',
     },
     'ehyajefq': {
       'ru': 'Защита шеи',
-      'en': '',
+        'en': 'Neck Guard',
     },
     'zbv5vujz': {
       'ru':
           'Описание: Защита шеи предохраняет шею и горло от порезов и ударов. Она изготовлена из плотного материала, часто с кевларовыми вставками.',
-      'en': '',
+      'en': 'Описание: Защита шеи предохраняет шею и горло от порезов и ударов. Она изготовлена из плотного материала, часто с кевларовыми вставками.',
     },
     '3k2co697': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'ki60nmw7': {
       'ru':
           'Размер: Защита шеи должна плотно облегать шею, не вызывая дискомфорт.\n\nМатериал: Обратите внимание на прочность и износостойкость материала.\n\nКомфорт: Защита не должна мешать движению головы и дыханию.',
-      'en': '',
+      'en': 'Размер: Защита шеи должна плотно облегать шею, не вызывая дискомфорт.\n\nМатериал: Обратите внимание на прочность и износостойкость материала.\n\nКомфорт: Защита не должна мешать движению головы и дыханию.',
     },
     'axxd8lbz': {
       'ru': 'Общие советы',
-      'en': '',
+        'en': 'General tips',
     },
     'ddu0cocx': {
       'ru':
           'Примерка: Всегда примеряйте экипировку перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние экипировки, чистите и проветривайте её после каждой тренировки или игры.',
-      'en': '',
+      'en': 'Примерка: Всегда примеряйте экипировку перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние экипировки, чистите и проветривайте её после каждой тренировки или игры.',
     },
     'nv8x6r8b': {
       'ru':
           'Правильно подобранная вратарская экипировка обеспечит ребенку максимальную защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
-      'en': '',
+      'en': 'Правильно подобранная вратарская экипировка обеспечит ребенку максимальную защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
     },
     '955bojiq': {
       'ru': 'Защита тела вратаря',
-      'en': '',
+        'en': 'Goalie Body Protection',
     },
     'qw1ta8jn': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // GKglovePage
@@ -9567,74 +9567,74 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'weih9izo': {
       'ru':
           'Вратарская ловушка и блокер - это ключевые элементы вратарской экипировки, которые играют важную роль в защите и контроле шайбы. Вот подробное описание этих элементов и советы по их выбору:',
-      'en': '',
+      'en': 'Вратарская ловушка и блокер - это ключевые элементы вратарской экипировки, которые играют важную роль в защите и контроле шайбы. Вот подробное описание этих элементов и советы по их выбору:',
     },
     'pi9ynyox': {
       'ru': 'Вратарская ловушка',
-      'en': '',
+        'en': 'Goalie Catch Glove',
     },
     'ztogf8ah': {
       'ru':
           'Описание: Вратарская ловушка, или перчатка-ловушка, предназначена для ловли шайбы и защиты руки. Она состоит из жесткого каркаса и мягкой внутренней подкладки для амортизации ударов.',
-      'en': '',
+      'en': 'Описание: Вратарская ловушка, или перчатка-ловушка, предназначена для ловли шайбы и защиты руки. Она состоит из жесткого каркаса и мягкой внутренней подкладки для амортизации ударов.',
     },
     'uyadsvv8': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'cowactjg': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Ловушка должна плотно сидеть на руке, обеспечивая удобный захват и легкость движения пальцев.\n\nРегулировка: Обратите внимание на наличие ремней и застежек для точной подгонки ловушки по руке.\n\n2. Защита:\n\nАмортизация: Ловушка должна иметь качественные амортизирующие вставки для защиты руки от сильных ударов шайбой.\n\nКаркас: Жесткий каркас и усиленные зоны на ладони и пальцах обеспечивают дополнительную защиту.\n\n3. Комфорт:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные отверстия для улучшения циркуляции воздуха и предотвращения перегрева руки.\n\n4. Гибкость:\n\nЛегкость закрытия: Ловушка должна легко закрываться для надежного захвата шайбы. Новые ловушки могут быть жесткими, но со временем они разрабатываются и становятся более гибкими.\n\nПоложение пальцев: Проверьте, что пальцы легко двигаются и ловушка не ограничивает их подвижность.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Ловушка должна плотно сидеть на руке, обеспечивая удобный захват и легкость движения пальцев.\n\nРегулировка: Обратите внимание на наличие ремней и застежек для точной подгонки ловушки по руке.\n\n2. Защита:\n\nАмортизация: Ловушка должна иметь качественные амортизирующие вставки для защиты руки от сильных ударов шайбой.\n\nКаркас: Жесткий каркас и усиленные зоны на ладони и пальцах обеспечивают дополнительную защиту.\n\n3. Комфорт:\n\nПодкладка: Внутренняя подкладка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные отверстия для улучшения циркуляции воздуха и предотвращения перегрева руки.\n\n4. Гибкость:\n\nЛегкость закрытия: Ловушка должна легко закрываться для надежного захвата шайбы. Новые ловушки могут быть жесткими, но со временем они разрабатываются и становятся более гибкими.\n\nПоложение пальцев: Проверьте, что пальцы легко двигаются и ловушка не ограничивает их подвижность.',
     },
     'ykz7b2m3': {
       'ru': 'Различия вратарских ловушек',
-      'en': '',
+        'en': 'Differences in Goalie Catch Gloves',
     },
     '9b009gw3': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Ловушки для начинающих обеспечивают базовую защиту и комфорт. Они обычно менее дорогие и могут быть менее гибкими. Эти ловушки предназначены для детей и новичков, которым нужна надежная защита и простота использования.\n\nСредний и продвинутый уровень: Ловушки для более опытных игроков имеют улучшенные материалы и технологии. Они обеспечивают лучшую амортизацию, защиту и гибкость, что позволяет вратарям быстрее и надежнее ловить шайбы.\n\n2. Материалы:\n\nТрадиционные материалы: Ловушки, изготовленные из кожаных и синтетических материалов, могут быть тяжелее, но обеспечивают отличную долговечность и защиту.\n\nСовременные композиты: Легкие материалы, такие как углеродное волокно и современные синтетические материалы, обеспечивают улучшенную производительность, гибкость и защиту.\n\n3. Конструкция:\n\nСтандартная конструкция: Традиционная конструкция ловушек с базовой формой и амортизацией. Эти модели хорошо подходят для начинающих и среднего уровня игроков.\n\nАнатомическая конструкция: Ловушки с анатомической формой обеспечивают лучшее прилегание к руке и улучшенный захват шайбы. Эти модели часто имеют более продвинутую амортизацию и защиту, что делает их идеальными для продвинутых игроков.\n\n4. Гибкость и захват:\n\nМеньшая гибкость: Ловушки с меньшей гибкостью могут быть более жесткими в начале использования, но со временем они становятся более удобными. Такие модели подходят для вратарей, предпочитающих более жесткое ощущение.\n\nБольшая гибкость: Ловушки с большей гибкостью обеспечивают мгновенный комфорт и легкость закрытия. Они позволяют быстро и надежно ловить шайбы, что особенно важно для опытных вратарей.\n\n5. Внутренняя подкладка:\n\nСтандартная подкладка: Базовая подкладка обеспечивает комфорт и защиту, но может быть менее дышащей.\n\nПродвинутая подкладка: Подкладка с улучшенной вентиляцией и амортизацией обеспечивает лучший комфорт и предотвращает перегрев руки. Некоторые модели имеют антибактериальные свойства для предотвращения неприятных запахов.\n\n6. Дополнительные функции:\n\nВентиляционные отверстия: Некоторые ловушки имеют специальные вентиляционные отверстия, которые обеспечивают лучшую циркуляцию воздуха и предотвращают перегрев руки.\n\nРегулируемые ремни и застежки: Эти функции позволяют точно подгонять ловушку по руке, обеспечивая надежную фиксацию и комфорт.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Ловушки для начинающих обеспечивают базовую защиту и комфорт. Они обычно менее дорогие и могут быть менее гибкими. Эти ловушки предназначены для детей и новичков, которым нужна надежная защита и простота использования.\n\nСредний и продвинутый уровень: Ловушки для более опытных игроков имеют улучшенные материалы и технологии. Они обеспечивают лучшую амортизацию, защиту и гибкость, что позволяет вратарям быстрее и надежнее ловить шайбы.\n\n2. Материалы:\n\nТрадиционные материалы: Ловушки, изготовленные из кожаных и синтетических материалов, могут быть тяжелее, но обеспечивают отличную долговечность и защиту.\n\nСовременные композиты: Легкие материалы, такие как углеродное волокно и современные синтетические материалы, обеспечивают улучшенную производительность, гибкость и защиту.\n\n3. Конструкция:\n\nСтандартная конструкция: Традиционная конструкция ловушек с базовой формой и амортизацией. Эти модели хорошо подходят для начинающих и среднего уровня игроков.\n\nАнатомическая конструкция: Ловушки с анатомической формой обеспечивают лучшее прилегание к руке и улучшенный захват шайбы. Эти модели часто имеют более продвинутую амортизацию и защиту, что делает их идеальными для продвинутых игроков.\n\n4. Гибкость и захват:\n\nМеньшая гибкость: Ловушки с меньшей гибкостью могут быть более жесткими в начале использования, но со временем они становятся более удобными. Такие модели подходят для вратарей, предпочитающих более жесткое ощущение.\n\nБольшая гибкость: Ловушки с большей гибкостью обеспечивают мгновенный комфорт и легкость закрытия. Они позволяют быстро и надежно ловить шайбы, что особенно важно для опытных вратарей.\n\n5. Внутренняя подкладка:\n\nСтандартная подкладка: Базовая подкладка обеспечивает комфорт и защиту, но может быть менее дышащей.\n\nПродвинутая подкладка: Подкладка с улучшенной вентиляцией и амортизацией обеспечивает лучший комфорт и предотвращает перегрев руки. Некоторые модели имеют антибактериальные свойства для предотвращения неприятных запахов.\n\n6. Дополнительные функции:\n\nВентиляционные отверстия: Некоторые ловушки имеют специальные вентиляционные отверстия, которые обеспечивают лучшую циркуляцию воздуха и предотвращают перегрев руки.\n\nРегулируемые ремни и застежки: Эти функции позволяют точно подгонять ловушку по руке, обеспечивая надежную фиксацию и комфорт.',
     },
     't7h8dw2j': {
       'ru': 'Вратарский блокер',
-      'en': '',
+        'en': 'Goalie Blocker',
     },
     '4d5avlsl': {
       'ru':
           'Описание: Вратарский блокер используется для отбивания шайбы и защиты руки. Он состоит из твердой внешней поверхности и удобной перчатки с амортизирующими вставками.',
-      'en': '',
+      'en': 'Описание: Вратарский блокер используется для отбивания шайбы и защиты руки. Он состоит из твердой внешней поверхности и удобной перчатки с амортизирующими вставками.',
     },
     'b6soej4g': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'df0n5l2j': {
       'ru':
           '1. Размер:\n\nПравильная посадка: Блокер должен плотно сидеть на руке, не болтаться и не давить. Перчатка внутри блока должна быть удобной и обеспечивать хороший захват.\n\nРегулировка: Обратите внимание на наличие ремней и застежек для точной подгонки блока по руке.\n\n2. Защита:\n\nАмортизация: Блокер должен иметь качественные амортизирующие вставки для защиты руки от ударов шайбой.\n\nКаркас: Жесткая внешняя поверхность и усиленные зоны на тыльной стороне ладони и пальцах обеспечивают дополнительную защиту.\n\n3. Комфорт:\n\nПодкладка: Внутренняя перчатка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные отверстия для улучшения циркуляции воздуха и предотвращения перегрева руки.\n\n4. Гибкость:\n\nПодвижность запястья: Блокер должен обеспечивать свободу движений запястья для точного и быстрого отбивания шайбы.\n\nЛегкость управления: Перчатка внутри блока должна обеспечивать хороший контроль и легкость управления клюшкой.',
-      'en': '',
+      'en': '1. Размер:\n\nПравильная посадка: Блокер должен плотно сидеть на руке, не болтаться и не давить. Перчатка внутри блока должна быть удобной и обеспечивать хороший захват.\n\nРегулировка: Обратите внимание на наличие ремней и застежек для точной подгонки блока по руке.\n\n2. Защита:\n\nАмортизация: Блокер должен иметь качественные амортизирующие вставки для защиты руки от ударов шайбой.\n\nКаркас: Жесткая внешняя поверхность и усиленные зоны на тыльной стороне ладони и пальцах обеспечивают дополнительную защиту.\n\n3. Комфорт:\n\nПодкладка: Внутренняя перчатка должна быть мягкой и комфортной, чтобы предотвратить натирания и обеспечить удобство во время игры.\n\nВентиляция: Некоторые модели имеют вентиляционные отверстия для улучшения циркуляции воздуха и предотвращения перегрева руки.\n\n4. Гибкость:\n\nПодвижность запястья: Блокер должен обеспечивать свободу движений запястья для точного и быстрого отбивания шайбы.\n\nЛегкость управления: Перчатка внутри блока должна обеспечивать хороший контроль и легкость управления клюшкой.',
     },
     'ro4vilnw': {
       'ru': 'Различия вратарских блокеров',
-      'en': '',
+        'en': 'Differences in Goalie Blockers',
     },
     '96kqzmc3': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Блокеры для начинающих часто имеют простую конструкцию и базовую защиту. Они могут быть более тяжелыми и менее маневренными, но обеспечивают надежную защиту для начинающих вратарей.\n\nСредний и продвинутый уровень: Блокеры для опытных игроков имеют улучшенные материалы и технологии, такие как легкие и прочные композитные материалы, продвинутая амортизация и лучшая гибкость, что позволяет вратарю эффективно отбивать шайбы и сохранять контроль.\n\n2. Материалы:\n\nТрадиционные материалы: Некоторые блокеры изготовлены из прочных синтетических материалов и пены. Эти модели обеспечивают хорошую защиту, но могут быть тяжелее и менее гибкими.\n\nСовременные композиты: Легкие и прочные композитные материалы (углеродное волокно, стекловолокно) делают блокеры легче и более долговечными. Эти материалы обеспечивают отличную амортизацию и гибкость.\n\n3. Конструкция:\n\nСтандартная конструкция: Блокеры с традиционной конструкцией обеспечивают базовую защиту и амортизацию. Они подходят для начального уровня и среднего уровня игроков.\n\nАнатомическая конструкция: Блокеры с анатомической конструкцией имеют улучшенную форму и поддержку, которая адаптируется к руке вратаря. Они обеспечивают лучшую защиту и гибкость, что особенно важно для опытных игроков.\n\n4. Гибкость и подвижность:\n\nМеньшая гибкость: Блокеры с меньшей гибкостью могут быть более жесткими в начале использования, но обеспечивают дополнительную защиту и поддержку.\n\nБольшая гибкость: Блокеры с большей гибкостью позволяют руке двигаться более свободно и быстро реагировать на удары. Они обеспечивают легкость и маневренность, что особенно важно для продвинутых вратарей.\n\n5. Подкладка и амортизация:\n\nСтандартная подкладка: Блокеры с базовой подкладкой обеспечивают комфорт и защиту, но могут быть менее дышащими.\n\nПродвинутая подкладка: Подкладка с улучшенной амортизацией и вентиляцией обеспечивает лучший комфорт и предотвращает перегрев руки. Некоторые модели имеют антибактериальные свойства для предотвращения неприятных запахов.\n\n6. Дополнительные функции:\n\nВентиляционные отверстия: Некоторые блокеры имеют вентиляционные отверстия, которые улучшают циркуляцию воздуха и помогают предотвратить перегрев руки.\n\nРегулируемые ремни и застежки: Эти функции позволяют точно подгонять блокер по руке, обеспечивая надежную фиксацию и комфорт. Некоторые модели имеют дополнительное крепление для улучшенной посадки и комфорта.',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Блокеры для начинающих часто имеют простую конструкцию и базовую защиту. Они могут быть более тяжелыми и менее маневренными, но обеспечивают надежную защиту для начинающих вратарей.\n\nСредний и продвинутый уровень: Блокеры для опытных игроков имеют улучшенные материалы и технологии, такие как легкие и прочные композитные материалы, продвинутая амортизация и лучшая гибкость, что позволяет вратарю эффективно отбивать шайбы и сохранять контроль.\n\n2. Материалы:\n\nТрадиционные материалы: Некоторые блокеры изготовлены из прочных синтетических материалов и пены. Эти модели обеспечивают хорошую защиту, но могут быть тяжелее и менее гибкими.\n\nСовременные композиты: Легкие и прочные композитные материалы (углеродное волокно, стекловолокно) делают блокеры легче и более долговечными. Эти материалы обеспечивают отличную амортизацию и гибкость.\n\n3. Конструкция:\n\nСтандартная конструкция: Блокеры с традиционной конструкцией обеспечивают базовую защиту и амортизацию. Они подходят для начального уровня и среднего уровня игроков.\n\nАнатомическая конструкция: Блокеры с анатомической конструкцией имеют улучшенную форму и поддержку, которая адаптируется к руке вратаря. Они обеспечивают лучшую защиту и гибкость, что особенно важно для опытных игроков.\n\n4. Гибкость и подвижность:\n\nМеньшая гибкость: Блокеры с меньшей гибкостью могут быть более жесткими в начале использования, но обеспечивают дополнительную защиту и поддержку.\n\nБольшая гибкость: Блокеры с большей гибкостью позволяют руке двигаться более свободно и быстро реагировать на удары. Они обеспечивают легкость и маневренность, что особенно важно для продвинутых вратарей.\n\n5. Подкладка и амортизация:\n\nСтандартная подкладка: Блокеры с базовой подкладкой обеспечивают комфорт и защиту, но могут быть менее дышащими.\n\nПродвинутая подкладка: Подкладка с улучшенной амортизацией и вентиляцией обеспечивает лучший комфорт и предотвращает перегрев руки. Некоторые модели имеют антибактериальные свойства для предотвращения неприятных запахов.\n\n6. Дополнительные функции:\n\nВентиляционные отверстия: Некоторые блокеры имеют вентиляционные отверстия, которые улучшают циркуляцию воздуха и помогают предотвратить перегрев руки.\n\nРегулируемые ремни и застежки: Эти функции позволяют точно подгонять блокер по руке, обеспечивая надежную фиксацию и комфорт. Некоторые модели имеют дополнительное крепление для улучшенной посадки и комфорта.',
     },
     'ffwpxhl8': {
       'ru':
           'Правильно подобранные вратарская ловушка и блокер обеспечат ребенку защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
-      'en': '',
+      'en': 'Правильно подобранные вратарская ловушка и блокер обеспечат ребенку защиту, комфорт и уверенность на льду, что позволит сосредоточиться на игре и достигать лучших результатов.',
     },
     'okpswyol': {
       'ru': 'Ловушка/Блокер',
-      'en': '',
+        'en': 'Catcher/Blocker',
     },
     '4f8uiuju': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // GKstick
@@ -9642,56 +9642,56 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     '6ifhp4z2': {
       'ru':
           'Вратарская клюшка - это важный инструмент вратаря, который помогает отбивать шайбы, делать передачи и управлять игрой. Вот подробное описание вратарских клюшек и советы по их выбору:',
-      'en': '',
+      'en': 'Вратарская клюшка - это важный инструмент вратаря, который помогает отбивать шайбы, делать передачи и управлять игрой. Вот подробное описание вратарских клюшек и советы по их выбору:',
     },
     'o1ftf8ka': {
       'ru': 'Вратарская клюшка',
-      'en': '',
+        'en': 'Goalie Stick',
     },
     'a2isvz15': {
       'ru':
           'Описание: Вратарская клюшка отличается от полевых клюшек увеличенной шириной крюка и большей длиной рукоятки. Она обеспечивает вратарю возможность отбивать шайбы, делать передачи и управлять шайбой за воротами.',
-      'en': '',
+      'en': 'Описание: Вратарская клюшка отличается от полевых клюшек увеличенной шириной крюка и большей длиной рукоятки. Она обеспечивает вратарю возможность отбивать шайбы, делать передачи и управлять шайбой за воротами.',
     },
     'b15u7tam': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'im3qq43p': {
       'ru':
           '1. Длина:\n\nПравильная длина: Для выбора длины клюшки поставьте ее вертикально рядом с собой: верхушка рукоятки должна доходить до подбородка или носа вратаря в коньках.\n\nЛичные предпочтения: Некоторым вратарям нравится более длинная клюшка для увеличенной зоны охвата, другим - более короткая для лучшего контроля.\n\n2. Материалы:\n\nДерево: Традиционные деревянные клюшки тяжелее, но обеспечивают отличное чувство шайбы. Они часто дешевле, но могут быстрее изнашиваться.\n\nКомпозиты: Клюшки из композитных материалов (углеродное волокно, стекловолокно) легче и долговечнее. Они обеспечивают отличную производительность, но могут быть дороже.\n\nГибриды: Сочетание дерева и композитных материалов предлагает баланс между традиционным ощущением и легкостью.\n\n3. Гибкость:\n\nВыбор гибкости: Гибкость вратарской клюшки меньше важна, чем в полевых клюшках, но она все же влияет на передачу энергии и контроль шайбы.\n\nВозраст и сила: Для детей выбирайте клюшки с меньшей жесткостью для улучшенного контроля.\n\n4. Лопасть:\n\nФорма и размер: Широкая лопасть вратарской клюшки обеспечивает большую площадь для отбивания шайб и улучшенного контроля. Некоторые модели имеют различные загибы для лучшего управления шайбой.\n\nМатериалы: Лопасть может быть изготовлена из тех же материалов, что и рукоятка, или иметь дополнительные усиления для повышения прочности.',
-      'en': '',
+      'en': '1. Длина:\n\nПравильная длина: Для выбора длины клюшки поставьте ее вертикально рядом с собой: верхушка рукоятки должна доходить до подбородка или носа вратаря в коньках.\n\nЛичные предпочтения: Некоторым вратарям нравится более длинная клюшка для увеличенной зоны охвата, другим - более короткая для лучшего контроля.\n\n2. Материалы:\n\nДерево: Традиционные деревянные клюшки тяжелее, но обеспечивают отличное чувство шайбы. Они часто дешевле, но могут быстрее изнашиваться.\n\nКомпозиты: Клюшки из композитных материалов (углеродное волокно, стекловолокно) легче и долговечнее. Они обеспечивают отличную производительность, но могут быть дороже.\n\nГибриды: Сочетание дерева и композитных материалов предлагает баланс между традиционным ощущением и легкостью.\n\n3. Гибкость:\n\nВыбор гибкости: Гибкость вратарской клюшки меньше важна, чем в полевых клюшках, но она все же влияет на передачу энергии и контроль шайбы.\n\nВозраст и сила: Для детей выбирайте клюшки с меньшей жесткостью для улучшенного контроля.\n\n4. Лопасть:\n\nФорма и размер: Широкая лопасть вратарской клюшки обеспечивает большую площадь для отбивания шайб и улучшенного контроля. Некоторые модели имеют различные загибы для лучшего управления шайбой.\n\nМатериалы: Лопасть может быть изготовлена из тех же материалов, что и рукоятка, или иметь дополнительные усиления для повышения прочности.',
     },
     'ac2oqgqf': {
       'ru': 'Различия хоккейных клюшек',
-      'en': '',
+        'en': 'Differences in Hockey Sticks',
     },
     '3j6yhlv4': {
       'ru':
           '1. Уровень игры:\n\nНачальный уровень: Клюшки для начинающих обеспечивают базовый контроль и защиту. Они обычно тяжелее и дешевле.\n\nСредний и продвинутый уровень: Клюшки для более опытных игроков имеют улучшенные материалы и технологии, обеспечивающие лучшее управление и долговечность.\n\n2. Тип игры:\n\nЗащитный стиль: Вратари, которые предпочитают больше отбивать шайбы и меньше играть клюшкой, могут выбрать более тяжелые и прочные клюшки.\n\nАктивный стиль: Вратари, активно участвующие в игре и делающие передачи, могут выбрать легкие и маневренные клюшки для лучшего контроля и точности.\n\n3. Левый или правый хват:\n\nЛевый хват: Вратарь держит клюшку в левой руке и ловит шайбу правой рукой.\n\nПравый хват: Вратарь держит клюшку в правой руке и ловит шайбу левой рукой.\n',
-      'en': '',
+      'en': '1. Уровень игры:\n\nНачальный уровень: Клюшки для начинающих обеспечивают базовый контроль и защиту. Они обычно тяжелее и дешевле.\n\nСредний и продвинутый уровень: Клюшки для более опытных игроков имеют улучшенные материалы и технологии, обеспечивающие лучшее управление и долговечность.\n\n2. Тип игры:\n\nЗащитный стиль: Вратари, которые предпочитают больше отбивать шайбы и меньше играть клюшкой, могут выбрать более тяжелые и прочные клюшки.\n\nАктивный стиль: Вратари, активно участвующие в игре и делающие передачи, могут выбрать легкие и маневренные клюшки для лучшего контроля и точности.\n\n3. Левый или правый хват:\n\nЛевый хват: Вратарь держит клюшку в левой руке и ловит шайбу правой рукой.\n\nПравый хват: Вратарь держит клюшку в правой руке и ловит шайбу левой рукой.\n',
     },
     'h99hc1y1': {
       'ru': 'Общие советы:',
-      'en': '',
+        'en': 'General tips:',
     },
     'y6y61a32': {
       'ru':
           'Проверка: Всегда проверяйте клюшку перед покупкой, чтобы убедиться в правильной длине и удобстве.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние клюшки, избегайте ударов о борта и другие твердые поверхности, чтобы продлить срок службы.\n',
-      'en': '',
+      'en': 'Проверка: Всегда проверяйте клюшку перед покупкой, чтобы убедиться в правильной длине и удобстве.\n\nПрофессиональная консультация: Обратитесь к специалистам в хоккейных магазинах для получения рекомендаций и помощи в выборе.\n\nУход: Регулярно проверяйте состояние клюшки, избегайте ударов о борта и другие твердые поверхности, чтобы продлить срок службы.\n',
     },
     'admu1s5w': {
       'ru':
           'Правильно подобранная вратарская клюшка обеспечит ребенку защиту, комфорт и уверенность на льду, что позволит ему максимально реализовать свой потенциал и наслаждаться игрой.',
-      'en': '',
+      'en': 'Правильно подобранная вратарская клюшка обеспечит ребенку защиту, комфорт и уверенность на льду, что позволит ему максимально реализовать свой потенциал и наслаждаться игрой.',
     },
     'tj0vo8k5': {
       'ru': 'Вратарские клюшки',
-      'en': '',
+        'en': 'Goalie Sticks',
     },
     'kmflx1tl': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_triangle_Lomako
@@ -9699,48 +9699,48 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'gplb7qs7': {
       'ru':
           'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
     },
     'u1gtruh5': {
       'ru': 'Трезубец',
-      'en': '',
+        'en': 'Trident',
     },
     'ja2hlzwn': {
       'ru': '85',
-      'en': '',
+        'en': '85',
     },
     'yzp08iur': {
       'ru': 'Важность',
-      'en': '',
+        'en': 'Importance',
     },
     '72zyswsb': {
       'ru': '65',
-      'en': '',
+        'en': '65',
     },
     'n2old3fs': {
       'ru': 'Техника',
-      'en': '',
+        'en': 'Technique',
     },
     '2gr7yns4': {
       'ru': '55',
-      'en': '',
+        'en': '55',
     },
     'gw1l3top': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'gfmlp6lt': {
       'ru':
           'Расположи три шайбы в горизонтальную линию перед собой, и начни перебор возле левой стойки, перебором двигайся к центральной шайбе. Обведи центральную шайбу круговым движением убора под себя и двигайся перебором к правой шайбе, а затем повтори то же самое в обратную сторону.',
-      'en': '',
+      'en': 'Расположи три шайбы в горизонтальную линию перед собой, и начни перебор возле левой стойки, перебором двигайся к центральной шайбе. Обведи центральную шайбу круговым движением убора под себя и двигайся перебором к правой шайбе, а затем повтори то же самое в обратную сторону.',
     },
     '29jyoif6': {
       'ru': 'Дриблинг',
-      'en': '',
+        'en': 'Dribbling',
     },
     'p2afpl3h': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stick_eight_back_Lomako
@@ -9748,48 +9748,48 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'i80ghz87': {
       'ru':
           'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
     },
     'tt5a6kc2': {
       'ru': 'Восьмерка в развороте',
-      'en': '',
+        'en': 'Figure eight with turn',
     },
     's7v7f503': {
       'ru': '95',
-      'en': '',
+        'en': '95',
     },
     '8sd9lvp9': {
       'ru': 'Важность',
-      'en': '',
+        'en': 'Importance',
     },
     'wm2jdunn': {
       'ru': '85',
-      'en': '',
+        'en': '85',
     },
     'mv4y9uei': {
       'ru': 'Техника',
-      'en': '',
+        'en': 'Technique',
     },
     'csrfeeh1': {
       'ru': '85',
-      'en': '',
+        'en': '85',
     },
     '03cbotnt': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'pyas0drh': {
       'ru':
           'Расположи две стойки на ширине плеч, горизонтально у себя за спиной. Расстояние между стойками и тобой 1-1,5 шага. Разверни тело таким образом, чтобы носки смотрели в противоположную от шайб сторону, а корпус был повернут назад, через левое или правое плечо. Делая привычное движение - восьмерку в таком положении, ты улучшаешь свои координационные способности, и повышаешь возможную амплитуду движений, для большей уверенности в ситуациях 1 на 1 во время игры.',
-      'en': '',
+      'en': 'Расположи две стойки на ширине плеч, горизонтально у себя за спиной. Расстояние между стойками и тобой 1-1,5 шага. Разверни тело таким образом, чтобы носки смотрели в противоположную от шайб сторону, а корпус был повернут назад, через левое или правое плечо. Делая привычное движение - восьмерку в таком положении, ты улучшаешь свои координационные способности, и повышаешь возможную амплитуду движений, для большей уверенности в ситуациях 1 на 1 во время игры.',
     },
     '8e3216sg': {
       'ru': 'Дриблинг',
-      'en': '',
+        'en': 'Dribbling',
     },
     '5ehe5x3x': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Shooting_Step_Lomako
@@ -9797,168 +9797,168 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'pyqucjau': {
       'ru':
           'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Олег Ломако - профессиональный игрок ВХЛ, КХЛ. Чемпион ВХЛ 2018-2019. Татарстанский воспитанник.',
     },
     'llhms1hj': {
       'ru': 'Бросок с шага',
-      'en': '',
+        'en': 'Step shot',
     },
     '3fy4pfjo': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'qeiuo2e4': {
       'ru': 'Техника',
-      'en': '',
+        'en': 'Technique',
     },
     '881el6vt': {
       'ru': '85',
-      'en': '',
+        'en': '85',
     },
     'vxyfid4u': {
       'ru': 'Бросок',
-      'en': '',
+        'en': 'Shot',
     },
     '63mzx255': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'x0crj8j7': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'fxyhlgxz': {
       'ru':
           'Встань на одну ногу, вторую держи на весу. Во время броска, делай шаг-выпад вперед на вторую ногу. Делай так, чтобы движение выпада соответствовало переносу тела во время броска. Это упражнение поможет улучшить качество броска во время игровых ситуаций. ',
-      'en': '',
+      'en': 'Встань на одну ногу, вторую держи на весу. Во время броска, делай шаг-выпад вперед на вторую ногу. Делай так, чтобы движение выпада соответствовало переносу тела во время броска. Это упражнение поможет улучшить качество броска во время игровых ситуаций. ',
     },
     '62ohj9f4': {
       'ru': 'Броски',
-      'en': '',
+        'en': 'Shots',
     },
     'ayc4zul9': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // MS-KMSpdf
   {
     'pat34nn1': {
       'ru': 'МС/КМС',
-      'en': '',
+        'en': 'MS/CMS',
     },
     'x0wwzqig': {
       'ru': 'МСМК',
-      'en': '',
+        'en': 'MSIC',
     },
     'bbmjfeps': {
       'ru': 'МС/КМС',
-      'en': '',
+        'en': 'MS/CMS',
     },
     'dyhcprof': {
       'ru': 'РАЗРЯДЫ',
-      'en': '',
+        'en': 'RANKINGS',
     },
     'xt0wyic1': {
       'ru': 'Мастер Спорта России (МС)\nКандидат в Мастера Спорта (КМС)',
-      'en': '',
+        'en': 'Master of Sports of Russia (MS)\nCandidate for Master of Sports (CMS)',
     },
     'bfgrh01m': {
       'ru': '90',
-      'en': '',
+        'en': '90',
     },
     'ss16xg2y': {
       'ru': 'Уровень',
-      'en': '',
+        'en': 'Level',
     },
     'fccdor8u': {
       'ru': '90',
-      'en': '',
+        'en': '90',
     },
     '49u56cln': {
       'ru': 'Престиж',
-      'en': '',
+        'en': 'Prestige',
     },
     'g9atvcj4': {
       'ru': '90',
-      'en': '',
+        'en': '90',
     },
     '25biqbpe': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'ezhc4fkr': {
       'ru':
           'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
-      'en': '',
+      'en': 'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
     },
     'a8sxjfg0': {
       'ru': 'Открыть excel таблицу',
-      'en': '',
+        'en': 'Open Excel spreadsheet',
     },
     'ez5pbdno': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Levelspdf
   {
     '26xvxyds': {
       'ru': 'Разряды',
-      'en': '',
+        'en': 'Rankings',
     },
     'vh7dixjl': {
       'ru': 'МСМК',
-      'en': '',
+        'en': 'MSIC',
     },
     'zl6s4zxp': {
       'ru': 'МС/КМС',
-      'en': '',
+        'en': 'MS/CMS',
     },
     '6ke0bt4s': {
       'ru': 'РАЗРЯДЫ',
-      'en': '',
+        'en': 'RANKINGS',
     },
     'axhurtx9': {
       'ru': 'Взрослые и Юношеские разряды',
-      'en': '',
+        'en': 'Adult and Youth Rankings',
     },
     '7spgbokr': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'jl8my2q6': {
       'ru': 'Уровень',
-      'en': '',
+        'en': 'Level',
     },
     '6h1idzte': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'a1r0q65m': {
       'ru': 'Престиж',
-      'en': '',
+        'en': 'Prestige',
     },
     '8bhfxt6x': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     '1n2qaeom': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     '8d3mzzne': {
       'ru':
           'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
-      'en': '',
+      'en': 'Для развития силы с помощью упражнения \"жим гантели на бицепс\" начни, сидя на скамье с поддержкой спины, либо стоя в хоккейной посадке с прямой спиной, с гантелями в руках, ладонями обращенными вперед. Медленно сгибай руки в локтях, поднимая гантели к плечам, при этом локти должны оставаться прижатыми к бокам тела. Затем контролируя движение, медленно опускай гантели обратно вниз. Повторяй упражнение, увеличивая вес гантелей или количество повторений, чтобы постепенно укрепить бицепсы и развить силу в руках.',
     },
     's4qrv5im': {
       'ru': 'Открыть excel таблицу',
-      'en': '',
+        'en': 'Open Excel spreadsheet',
     },
     'kms8qu7q': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // BTOF_onBack_Khohryakov
@@ -9966,48 +9966,48 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'c3addn8t': {
       'ru':
           'Упражнение показывает Петр Хохряков - профессиональный игрок КХЛ, обладатель Кубка Гагарина. Нападающий хк \"Амур\".  Выступал за такие клубы как \"Нефтехимик\", \"Салават Юлаев\", \"СКА\", \"Авангард\" и \"Трактор\".\nТатарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Петр Хохряков - профессиональный игрок КХЛ, обладатель Кубка Гагарина. Нападающий хк \"Амур\".  Выступал за такие клубы как \"Нефтехимик\", \"Салават Юлаев\", \"СКА\", \"Авангард\" и \"Трактор\".\nТатарстанский воспитанник.',
     },
     '8gneqi6t': {
       'ru': 'Переход спина/лицо в круге',
-      'en': '',
+        'en': 'Forward/backward transition in a circle',
     },
     '99d3e11v': {
       'ru': '80',
-      'en': '',
+        'en': '80',
     },
     'yqm88adq': {
       'ru': 'Баланс',
-      'en': '',
+        'en': 'Balance',
     },
     '0eqqzb4j': {
       'ru': '80',
-      'en': '',
+        'en': '80',
     },
     'cs9dlmdu': {
       'ru': 'Катание',
-      'en': '',
+        'en': 'Skating',
     },
     '60cj6cnl': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'f4ooaf3j': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'v5o5oar7': {
       'ru':
           'Для выполнения этого элемента, встань возле круга вбрасывания, начинай катить прямо к противоположной вершине круга. Приблизившись к вершине, сделай переход в одну из сторон, перейдя на катание спиной вперед продолжай движение в заданном направлении по радиусу. После перехода на спину, сделай несколько скрестных шагов и доехав до начальной точки выполни полутормоз, после чего снова кати к противоположной вершине круга, делая переход в другую сторону.\n\nОбрати внимание чтобы при переходах - плечи оставались в одной плоскости, не подскакивая вверх-вниз, регулируй этот момент за счет посадки и техники катания. И старайся как можно быстрее выходить из фазы полутормоза, тренируя элемент быстрого и резкого старта.',
-      'en': '',
+      'en': 'Для выполнения этого элемента, встань возле круга вбрасывания, начинай катить прямо к противоположной вершине круга. Приблизившись к вершине, сделай переход в одну из сторон, перейдя на катание спиной вперед продолжай движение в заданном направлении по радиусу. После перехода на спину, сделай несколько скрестных шагов и доехав до начальной точки выполни полутормоз, после чего снова кати к противоположной вершине круга, делая переход в другую сторону.\n\nОбрати внимание чтобы при переходах - плечи оставались в одной плоскости, не подскакивая вверх-вниз, регулируй этот момент за счет посадки и техники катания. И старайся как можно быстрее выходить из фазы полутормоза, тренируя элемент быстрого и резкого старта.',
     },
     '9w2k8v82': {
       'ru': 'Грани',
-      'en': '',
+        'en': 'Edges',
     },
     'gynicfc6': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // stepsInCircle_Khohryakov
@@ -10015,48 +10015,48 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     '67lf8p5p': {
       'ru':
           'Упражнение показывает Петр Хохряков - профессиональный игрок КХЛ, обладатель Кубка Гагарина. Нападающий хк \"Амур\".  Выступал за такие клубы как \"Нефтехимик\", \"Салават Юлаев\", \"СКА\", \"Авангард\" и \"Трактор\".\nТатарстанский воспитанник.',
-      'en': '',
+      'en': 'Упражнение показывает Петр Хохряков - профессиональный игрок КХЛ, обладатель Кубка Гагарина. Нападающий хк \"Амур\".  Выступал за такие клубы как \"Нефтехимик\", \"Салават Юлаев\", \"СКА\", \"Авангард\" и \"Трактор\".\nТатарстанский воспитанник.',
     },
     'dps7h22t': {
       'ru': 'Переступания в круге',
-      'en': '',
+        'en': 'Crossovers in a circle',
     },
     'md5c6eb7': {
       'ru': '80',
-      'en': '',
+        'en': '80',
     },
     'cwma1md8': {
       'ru': 'Баланс',
-      'en': '',
+        'en': 'Balance',
     },
     'dapnshy6': {
       'ru': '80',
-      'en': '',
+        'en': '80',
     },
     '472skzz4': {
       'ru': 'Катание',
-      'en': '',
+        'en': 'Skating',
     },
     'qzp8va1c': {
       'ru': '75',
-      'en': '',
+        'en': '75',
     },
     'c4lfp2mv': {
       'ru': 'Сложность',
-      'en': '',
+        'en': 'Difficulty',
     },
     'dyu0owue': {
       'ru':
           'Начни движение по малому кругу в хоккейной посадке, держа спину прямо и делая переступания - попеременно толкайся ближней и дальней ногой. \n\nОбрати внимание на то, чтобы отталкиваясь внешней/внутренней гранью конька, толчок совершала вся стопа, а не только носок, и нога должна выпрямляться до конца в крайней точке. ',
-      'en': '',
+      'en': 'Начни движение по малому кругу в хоккейной посадке, держа спину прямо и делая переступания - попеременно толкайся ближней и дальней ногой. \n\nОбрати внимание на то, чтобы отталкиваясь внешней/внутренней гранью конька, толчок совершала вся стопа, а не только носок, и нога должна выпрямляться до конца в крайней точке. ',
     },
     'vghcetk1': {
       'ru': 'Грани',
-      'en': '',
+        'en': 'Edges',
     },
     '623oqh77': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Armour_Page
@@ -10064,137 +10064,137 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
     'xan5pefc': {
       'ru':
           'Хоккейная экипировка, в частности защита тела, должна обеспечивать безопасность, комфорт и свободу движений на льду. Вот описание основных элементов хоккейной защиты и советы по их выбору для ребенка:',
-      'en': '',
+      'en': 'Хоккейная экипировка, в частности защита тела, должна обеспечивать безопасность, комфорт и свободу движений на льду. Вот описание основных элементов хоккейной защиты и советы по их выбору для ребенка:',
     },
     '0bj5ysdd': {
       'ru': 'Нагрудник',
-      'en': '',
+        'en': 'Chest Protector',
     },
     'mnvv2ijr': {
       'ru':
           'Описание: Нагрудник защищает грудную клетку, плечи, ребра и верхнюю часть спины от ударов и падений. Он состоит из плотного материала с защитными вставками и регулируемыми ремнями для плотной посадки.',
-      'en': '',
+      'en': 'Описание: Нагрудник защищает грудную клетку, плечи, ребра и верхнюю часть спины от ударов и падений. Он состоит из плотного материала с защитными вставками и регулируемыми ремнями для плотной посадки.',
     },
     's474iz47': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'v369dphj': {
       'ru':
           'Размер: Убедитесь, что нагрудник подходит по размеру, не сковывает движений, но и не болтается. Между телом и нагрудником не должно быть больших зазоров.\n\nРегулируемость: Проверьте наличие регулируемых ремней и застежек для индивидуальной подгонки.\n\nВес: Легкость нагрудника важна для удобства и свободы движений ребенка.\n\nЗащита: Обратите внимание на уровень защиты плеч, ребер и груди. Хороший нагрудник имеет дополнительные усиленные зоны.',
-      'en': '',
+      'en': 'Размер: Убедитесь, что нагрудник подходит по размеру, не сковывает движений, но и не болтается. Между телом и нагрудником не должно быть больших зазоров.\n\nРегулируемость: Проверьте наличие регулируемых ремней и застежек для индивидуальной подгонки.\n\nВес: Легкость нагрудника важна для удобства и свободы движений ребенка.\n\nЗащита: Обратите внимание на уровень защиты плеч, ребер и груди. Хороший нагрудник имеет дополнительные усиленные зоны.',
     },
     'sesz3n3z': {
       'ru': 'Шорты',
-      'en': '',
+        'en': 'Pants',
     },
     'ekh9nxw8': {
       'ru':
           'Описание: Шорты защищают бедра, тазобедренные суставы, копчик и нижнюю часть позвоночника. Они изготавливаются из прочного материала с мягкими и жесткими защитными вставками.',
-      'en': '',
+      'en': 'Описание: Шорты защищают бедра, тазобедренные суставы, копчик и нижнюю часть позвоночника. Они изготавливаются из прочного материала с мягкими и жесткими защитными вставками.',
     },
     '8jsyd0p5': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'k3cwnxla': {
       'ru':
           'Размер: Шорты должны плотно сидеть на бедрах и талии, не сползать и не быть слишком свободными.\n\nЗащита: Проверьте качество защитных вставок в области бедер, таза и копчика.\n\nКомфорт: Убедитесь, что шорты не ограничивают движения и обеспечивают достаточную гибкость.',
-      'en': '',
+      'en': 'Размер: Шорты должны плотно сидеть на бедрах и талии, не сползать и не быть слишком свободными.\n\nЗащита: Проверьте качество защитных вставок в области бедер, таза и копчика.\n\nКомфорт: Убедитесь, что шорты не ограничивают движения и обеспечивают достаточную гибкость.',
     },
     'qcklew1a': {
       'ru': 'Налокотники',
-      'en': '',
+        'en': 'Elbow Pads',
     },
     'hkdtyjs4': {
       'ru':
           'Описание: Налокотники защищают локтевые суставы и предплечья от ударов и падений. Они состоят из жесткой внешней оболочки и мягкой внутренней подкладки.',
-      'en': '',
+      'en': 'Описание: Налокотники защищают локтевые суставы и предплечья от ударов и падений. Они состоят из жесткой внешней оболочки и мягкой внутренней подкладки.',
     },
     'luvqa0q0': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     '36oohgmr': {
       'ru':
           'Размер: Налокотники должны полностью закрывать локти и часть предплечья, не сдавливая руку.\n\nРегулируемость: Проверьте наличие ремней или липучек для надежной фиксации.\n\nПодвижность: Налокотники не должны ограничивать сгибание руки в локте.',
-      'en': '',
+      'en': 'Размер: Налокотники должны полностью закрывать локти и часть предплечья, не сдавливая руку.\n\nРегулируемость: Проверьте наличие ремней или липучек для надежной фиксации.\n\nПодвижность: Налокотники не должны ограничивать сгибание руки в локте.',
     },
     'bvytllck': {
       'ru': 'Наколенники',
-      'en': '',
+        'en': 'Knee Pads',
     },
     '0bwiogzw': {
       'ru':
           'Описание: Наколенники защищают колени и голени от ударов, шайб и столкновений. Они состоят из жесткой внешней оболочки и мягкой внутренней подкладки.',
-      'en': '',
+      'en': 'Описание: Наколенники защищают колени и голени от ударов, шайб и столкновений. Они состоят из жесткой внешней оболочки и мягкой внутренней подкладки.',
     },
     'b0q9oqco': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'nlsjfomw': {
       'ru':
           'Размер: Наколенники должны закрывать колени и большую часть голени, не ограничивая движения.\n\nКрепление: Проверьте наличие ремней или застежек для надежной фиксации.\n\nЗащита: Обратите внимание на уровень защиты коленной чашечки и голени.',
-      'en': '',
+      'en': 'Размер: Наколенники должны закрывать колени и большую часть голени, не ограничивая движения.\n\nКрепление: Проверьте наличие ремней или застежек для надежной фиксации.\n\nЗащита: Обратите внимание на уровень защиты коленной чашечки и голени.',
     },
     'e6ob0cob': {
       'ru': 'Ракушка',
-      'en': '',
+        'en': 'Athletic Cup',
     },
     'e9en73fh': {
       'ru':
           'Описание: Ракушка защищает паховую область от ударов и травм. Она обычно состоит из твердой внешней оболочки и мягкой подкладки.',
-      'en': '',
+      'en': 'Описание: Ракушка защищает паховую область от ударов и травм. Она обычно состоит из твердой внешней оболочки и мягкой подкладки.',
     },
     'ayj7g232': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     'win3m8v5': {
       'ru':
           'Размер: Выбирайте ракушку по размеру ребенка для надежной защиты.\n\nКомфорт: Убедитесь, что ракушка не натирает и не вызывает дискомфорт.\n\nКрепление: Обратите внимание на способы крепления (ремни, трусы с встроенной ракушкой) для надежной фиксации.',
-      'en': '',
+      'en': 'Размер: Выбирайте ракушку по размеру ребенка для надежной защиты.\n\nКомфорт: Убедитесь, что ракушка не натирает и не вызывает дискомфорт.\n\nКрепление: Обратите внимание на способы крепления (ремни, трусы с встроенной ракушкой) для надежной фиксации.',
     },
     'umgo4zed': {
       'ru': 'Защита шеи',
-      'en': '',
+        'en': 'Neck Guard',
     },
     'aucbwy7n': {
       'ru':
           'Описание: Защита шеи предохраняет шею и горло от порезов коньками и других травм. Она изготовлена из плотного материала, часто с кевларовыми вставками.',
-      'en': '',
+      'en': 'Описание: Защита шеи предохраняет шею и горло от порезов коньками и других травм. Она изготовлена из плотного материала, часто с кевларовыми вставками.',
     },
     'qdss98qn': {
       'ru': 'Советы по выбору',
-      'en': '',
+        'en': 'Selection tips',
     },
     '71rvnmrg': {
       'ru':
           'Размер: Защита шеи должна плотно облегать шею, не вызывая дискомфорт.\n\nМатериал: Обратите внимание на прочность и износостойкость материала.\n\nКомфорт: Защита не должна мешать движению головы и дыханию.',
-      'en': '',
+      'en': 'Размер: Защита шеи должна плотно облегать шею, не вызывая дискомфорт.\n\nМатериал: Обратите внимание на прочность и износостойкость материала.\n\nКомфорт: Защита не должна мешать движению головы и дыханию.',
     },
     '6082l2k0': {
       'ru': 'Общие советы',
-      'en': '',
+        'en': 'General tips',
     },
     'np40vxx2': {
       'ru':
           'Примерка: Всегда примеряйте экипировку перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nБезопасность: Убедитесь, что вся экипировка сертифицирована и соответствует стандартам безопасности.\n\nМаркировка: Обратите внимание на рекомендации производителей по возрасту и размеру.\n\nКонсультация: Проконсультируйтесь с тренером или специалистом по экипировке для получения дополнительных рекомендаций.',
-      'en': '',
+      'en': 'Примерка: Всегда примеряйте экипировку перед покупкой, чтобы убедиться в правильной посадке и комфорте.\n\nБезопасность: Убедитесь, что вся экипировка сертифицирована и соответствует стандартам безопасности.\n\nМаркировка: Обратите внимание на рекомендации производителей по возрасту и размеру.\n\nКонсультация: Проконсультируйтесь с тренером или специалистом по экипировке для получения дополнительных рекомендаций.',
     },
     'hqckb4iy': {
       'ru':
           'Правильно подобранная хоккейная экипировка обеспечит ребенку безопасность и комфорт на льду, что позволит ему сосредоточиться на игре и тренировках.',
-      'en': '',
+      'en': 'Правильно подобранная хоккейная экипировка обеспечит ребенку безопасность и комфорт на льду, что позволит ему сосредоточиться на игре и тренировках.',
     },
     'erxloz90': {
       'ru': 'Защита тела',
-      'en': '',
+        'en': 'Body Protection',
     },
     'ycj02sm2': {
       'ru': 'Дом',
-      'en': '',
+        'en': 'Home',
     },
   },
   // Action2SheetSimple
@@ -10212,103 +10212,103 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   {
     '2daqgh7v': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'aothebft': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '7r0cznzu': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'qt77jgzf': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'jepd6td7': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '3nx252aa': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'wmaquzjz': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'sk5fzmo2': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'pfx8xc6y': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'j7yckgjn': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'cp3yj1vg': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '8q2gckal': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '8lak4xj6': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'ie3h958v': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'lcgkg2cm': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'emiqg01e': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'qxjw2egl': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '8vancrfq': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '19fqfdof': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'n1noqb7v': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '6diofpmq': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'tarykhyv': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'xmaqikoy': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     '6eoep6ad': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
     'fpncdfz0': {
       'ru': '',
-      'en': '',
+        'en': '',
     },
   },
 ].reduce((a, b) => a..addAll(b));
