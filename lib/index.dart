@@ -312,17 +312,7 @@ export '/ice_training/training_tech_of_shooting/shooting_from_one_leg_on_platorm
     show ShootingFromOneLegOnPlatormSideWidget;
 export '/change_profile/change_profile_widget.dart' show ChangeProfileWidget;
 export '/home_page/home_page_widget.dart' show HomePageWidget;
-export '/health/anti_doping/anti_doping_base/anti_doping_base_widget.dart'
-    show AntiDopingBaseWidget;
 export '/hockey_facts/hockey_facts_widget.dart' show HockeyFactsWidget;
-export '/health/anti_doping/anti_doping_profilactic/anti_doping_profilactic_widget.dart'
-    show AntiDopingProfilacticWidget;
-export '/health/anti_doping/anti_doping_danger_things/anti_doping_danger_things_widget.dart'
-    show AntiDopingDangerThingsWidget;
-export '/health/anti_doping/anti_doping_control/anti_doping_control_widget.dart'
-    show AntiDopingControlWidget;
-export '/health/anti_doping/anti_doping_what_can_be/anti_doping_what_can_be_widget.dart'
-    show AntiDopingWhatCanBeWidget;
 export '/facts_holder/judge_gesture/judge_gesture_widget.dart'
     show JudgeGestureWidget;
 export '/facts_holder/achievements_folder/m_s_m_kpdf/m_s_m_kpdf_widget.dart'

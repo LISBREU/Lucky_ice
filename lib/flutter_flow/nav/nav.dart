@@ -866,34 +866,9 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           builder: (context, params) => HomePageWidget(),
         ),
         FFRoute(
-          name: 'Anti-Doping-Base',
-          path: '/antiDopingBase',
-          builder: (context, params) => AntiDopingBaseWidget(),
-        ),
-        FFRoute(
           name: 'HockeyFacts',
           path: '/hockeyFacts',
           builder: (context, params) => HockeyFactsWidget(),
-        ),
-        FFRoute(
-          name: 'Anti-Doping-profilactic',
-          path: '/antiDopingProfilactic',
-          builder: (context, params) => AntiDopingProfilacticWidget(),
-        ),
-        FFRoute(
-          name: 'Anti-Doping-dangerThings',
-          path: '/antiDopingDangerThings',
-          builder: (context, params) => AntiDopingDangerThingsWidget(),
-        ),
-        FFRoute(
-          name: 'Anti-Doping-control',
-          path: '/antiDopingControl',
-          builder: (context, params) => AntiDopingControlWidget(),
-        ),
-        FFRoute(
-          name: 'Anti-Doping-whatCanBe',
-          path: '/antiDopingWhatCanBe',
-          builder: (context, params) => AntiDopingWhatCanBeWidget(),
         ),
         FFRoute(
           name: 'JudgeGesture',
