@@ -37,7 +37,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  Locale? _locale;
+  Locale? _locale = const Locale('ru');
 
   ThemeMode _themeMode = FlutterFlowTheme.themeMode;
 

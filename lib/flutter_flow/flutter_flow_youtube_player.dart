@@ -159,29 +159,32 @@ class _FlutterFlowYoutubePlayerState extends State<FlutterFlowYoutubePlayer>
   }
 
   @override
-  Widget build(BuildContext context) => FittedBox(
-        fit: BoxFit.cover,
-        child: Container(
-          height: height,
-          width: width,
-          child: _controller != null
-              ? handleFullScreen
-                  ? YoutubePlayerScaffold(
-                      controller: _controller!,
-                      builder: (_, player) => player,
-                      autoFullScreen: false,
-                      gestureRecognizers: const <Factory<
-                          TapGestureRecognizer>>{},
-                      enableFullScreenOnVerticalDrag: false,
-                    )
-                  : YoutubePlayer(
-                      controller: _controller!,
-                      gestureRecognizers: const <Factory<
-                          TapGestureRecognizer>>{},
-                      enableFullScreenOnVerticalDrag: false,
-                    )
-              : Container(color: Colors.transparent),
-        ),
+  Widget build(BuildContext context) => LayoutBuilder(
+        builder: (context, constraints) {
+          final w = constraints.maxWidth.isFinite ? constraints.maxWidth : width;
+          final h = constraints.maxHeight.isFinite ? constraints.maxHeight : height;
+          return SizedBox(
+            width: w,
+            height: h,
+            child: _controller != null
+                ? handleFullScreen
+                    ? YoutubePlayerScaffold(
+                        controller: _controller!,
+                        builder: (_, player) => player,
+                        autoFullScreen: false,
+                        gestureRecognizers: const <Factory<
+                            TapGestureRecognizer>>{},
+                        enableFullScreenOnVerticalDrag: false,
+                      )
+                    : YoutubePlayer(
+                        controller: _controller!,
+                        gestureRecognizers: const <Factory<
+                            TapGestureRecognizer>>{},
+                        enableFullScreenOnVerticalDrag: false,
+                      )
+                : Container(color: Colors.transparent),
+          );
+        },
       );
 }
 

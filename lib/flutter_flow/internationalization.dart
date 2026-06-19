@@ -142,7 +142,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Psychology',
     },
     '5zmt0tnh': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': 'Home',
     },
   },
@@ -331,7 +331,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'bais.lisbreu@gmail.com',
     },
     'e4txsze8': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': 'Home',
     },
   },
@@ -376,7 +376,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'b4j3aofw': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': 'Home',
     },
   },
@@ -421,7 +421,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'lz10mjvs': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -520,7 +520,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Skating progress',
     },
     'gqfynnak': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -742,7 +742,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'g5ge4tpz': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -969,7 +969,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'gfv76l3l': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1092,7 +1092,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'ci3uerb8': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1271,7 +1271,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'usfsczhj': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1316,7 +1316,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     '6npdsnhz': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1361,7 +1361,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     '0uqdk5ov': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1406,7 +1406,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'cxz2bc9z': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1451,7 +1451,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     '0lqp1r4l': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1496,7 +1496,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'fyv46ibs': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1541,7 +1541,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'm1vsboyt': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1586,7 +1586,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'llxx8jas': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1631,7 +1631,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'pvpxzxeq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1676,7 +1676,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'e1z5sbzp': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1721,7 +1721,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'xn754wuy': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1766,7 +1766,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '3mhdjvtu': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1811,7 +1811,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '2zp294ll': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1856,7 +1856,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '21jiodfm': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1901,7 +1901,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '8cw1tch2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1946,7 +1946,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'fnu8l3ef': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -1991,7 +1991,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'fx4818r8': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2036,7 +2036,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'egv46lo7': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2081,7 +2081,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'bo0c5ykq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2126,7 +2126,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '7gxssf24': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2171,7 +2171,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'l2t47do2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2216,7 +2216,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'nuuyfx16': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2261,7 +2261,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'xyfrsdb3': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2306,7 +2306,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'aocmru5q': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2351,7 +2351,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'v3iutz5l': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2396,7 +2396,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'vp35tfj1': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2441,7 +2441,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'mkcrsvex': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2486,7 +2486,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'qlk5ednx': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2531,7 +2531,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'uoqfmurz': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2576,7 +2576,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'vse81d9r': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2621,7 +2621,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'jmmpitzd': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2666,7 +2666,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'ktaqlr72': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2711,7 +2711,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     '512p4hq3': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2756,7 +2756,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'jgt9fjqr': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -2801,7 +2801,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Steps',
     },
     'qukq9b3x': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3112,7 +3112,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'ugg80uxp': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3157,7 +3157,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'u0lf5zdc': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3202,7 +3202,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     '4ncryyzd': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3252,7 +3252,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     '3dosm72g': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3297,7 +3297,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     '7itx9i47': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3347,7 +3347,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'nwvgnbw6': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3392,7 +3392,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'l6k8pd6e': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3437,7 +3437,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'g7p3ti7u': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3482,7 +3482,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'wle7099q': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3527,7 +3527,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'oo1wiyrg': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3577,7 +3577,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'e2ze3hgq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3622,7 +3622,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'ceoq8c8d': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3667,7 +3667,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'f6yc2sfl': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3712,7 +3712,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'pj7i9z5q': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3757,7 +3757,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'gdqo2sad': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3802,7 +3802,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     '7gcse5i4': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3847,7 +3847,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     '9jtqc208': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3892,7 +3892,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'pqigzzys': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3937,7 +3937,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'hhiy84y2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -3982,7 +3982,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'r57s03mb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4049,7 +4049,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'ozett8qs': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4116,7 +4116,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     'roe9jq58': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4175,7 +4175,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     '0ynv5j0c': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4242,7 +4242,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'bv9hqkc4': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4309,7 +4309,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'xp6x2e5d': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4384,7 +4384,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'lfiszzr2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4425,7 +4425,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
           'Psychological preparation and post-game adjustment play an important role in achieving high performance and successful results in hockey. Here are some tips on how a hockey player can regroup after a game and prepare for the next one:\n\n1. Rest and Recover: After playing, it is important to give your body time to recover. Rest by focusing on physical relaxation, nutrition and sleep. This will help you regain your energy and readiness for your next practice or game.\n\n2. Analyze the past game: Immediately after the game, go through the main points and situations in your mind. Evaluate your successes and mistakes to understand what you need to work on and how to improve your game. But don\'t just focus on the negatives - highlight the positives too.\n\n3. Positive thinking: Leave the past game and its emotions behind you. Switch to a positive attitude and confidence in your abilities. It is important to believe in yourself and your team.\n\n4. Learn from the past: Use analysis of past games as a lesson to improve your skills. What worked well? What can be improved? Identify specific aspects to work on in your training.\n\n5. Practice mental skills: Engage in mental training, including visualization of successful game situations, concentration and stress management. This will help you maintain a positive state of mind and be prepared for future challenges.\n\n6. Set goals: Set yourself specific goals for the upcoming practices and games. This will help you navigate and stay focused on achieving results.\n\n7. Training and physical preparation: After analyzing the last game, get ready for the next training and preparation. Focus on drills that will help improve the aspects of your game you are working on.\n\n8. Relaxation and stress tolerance: Use relaxation techniques, breathing exercises and meditation to relieve stress and maintain emotional stability.\n\n9. Team Support: Communication with coaches and teammates can help you process emotions after a game, get feedback and support.\n\n10. Establish rituals: Create post-game rituals that will help you switch from game mode to practice mode and preparation for the next game. It could be something specific that helps you shift your attention and emotions.\n\nRemember that mental preparation is just as important as physical training for success in hockey. Regular work on your mental state will help you become more effective on the court and successful in your sports career.',
     },
     '6v7xd18r': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4466,7 +4466,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Psychology',
     },
     'yh6f2de2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4507,7 +4507,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Psychology',
     },
     'zmyme5yi': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4548,7 +4548,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Psychology',
     },
     'sierphpy': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4589,7 +4589,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Psychology',
     },
     'ij3h2g70': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4626,7 +4626,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Sleep',
     },
     't25fyxcl': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4663,7 +4663,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Sleep',
     },
     'wp74gvcw': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4700,7 +4700,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Sleep',
     },
     'ei8xs4q2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4737,7 +4737,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Sleep',
     },
     'qhc7avi2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4774,7 +4774,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Sleep',
     },
     'dgaw2jvj': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4811,7 +4811,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     '9lbm4ejf': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4848,7 +4848,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     '32xv0ieh': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4885,7 +4885,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     '49enyrfq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4922,7 +4922,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'ya8crk74': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -4959,7 +4959,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'kc89kwah': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5004,7 +5004,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     '6opvuzuq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5049,7 +5049,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'ymbuh4cm': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5094,7 +5094,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     '1a9tivtk': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5139,7 +5139,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'iz3i9a7n': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5184,7 +5184,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'qekn2eiy': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5229,7 +5229,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'j05rzdmb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5274,7 +5274,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'lgdj1ue0': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5319,7 +5319,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     '8pxnqdni': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5364,7 +5364,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     'r9f8hlel': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5409,7 +5409,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     'jpopzqbj': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5454,7 +5454,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     'o8r9zocx': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5499,7 +5499,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     '2j6k5505': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5544,7 +5544,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Endurance',
     },
     'ec56dnsh': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5589,7 +5589,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     '1vhxznfx': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5634,7 +5634,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     '2bxw7qfn': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5679,7 +5679,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     'w5zc0udw': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5724,7 +5724,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     'z0pssbr5': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5769,7 +5769,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     '89tuvepq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5814,7 +5814,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     '70m5owne': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5859,7 +5859,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Power',
     },
     'tftlfalk': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5904,7 +5904,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'd8hevf3x': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5949,7 +5949,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'fx6ectye': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -5994,7 +5994,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     '43b5g5db': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6039,7 +6039,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'sgihcp39': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6084,7 +6084,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     '2dx5yfba': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6129,7 +6129,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'zfdq4qk5': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6174,7 +6174,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dexterity',
     },
     'ty0d7rdb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6219,7 +6219,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     't119uhzc': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6264,7 +6264,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'lj9o4wc9': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6309,7 +6309,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'mim9e3ym': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6354,7 +6354,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'pnlf9usf': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6399,7 +6399,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     '7wjdsq9p': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6444,7 +6444,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'zq4lvhfb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6489,7 +6489,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Force',
     },
     'zihm1r3u': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6534,7 +6534,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'qdwu4pba': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6579,7 +6579,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'gc6wvlc5': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6624,7 +6624,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'ymfimmug': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6669,7 +6669,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     '02n69oja': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6714,7 +6714,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'ggxw28jt': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6759,7 +6759,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'icyrk06g': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -6804,7 +6804,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Balance',
     },
     'v62pgdh5': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7019,7 +7019,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'lsouie1r': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7064,7 +7064,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'glpvc5l8': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7109,7 +7109,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'xq9lg6lq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7154,7 +7154,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'u97x7qk7': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7199,7 +7199,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'kvrocveu': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7244,7 +7244,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'k9ju6bot': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7289,7 +7289,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'gy6a5sjk': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7334,7 +7334,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'zoxxb31i': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7379,7 +7379,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'jke563b2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7424,7 +7424,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'gyc50nhl': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7469,7 +7469,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     '8ez8hisq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7514,7 +7514,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'nyb5g1gg': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7559,7 +7559,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'hlzqa6kh': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7604,7 +7604,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     'nzppoffj': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7649,7 +7649,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     '5dws9bhi': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7694,7 +7694,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     'wrfkyv44': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7739,7 +7739,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     'cvglprt4': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7822,7 +7822,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     'w2ufuhjn': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': 'Home',
     },
   },
@@ -7867,7 +7867,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     'de0n8fi1': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7912,7 +7912,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     '3l0k76qp': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -7957,7 +7957,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shootouts',
     },
     'ncagh7cn': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8002,7 +8002,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     '38muun8f': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8047,7 +8047,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Edges',
     },
     'cay6vvnu': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8092,7 +8092,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Turns',
     },
     'we3midze': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8137,7 +8137,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'npj13zu0': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8182,7 +8182,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     '57hjel34': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8227,7 +8227,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'arwj0dza': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8272,7 +8272,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Speed',
     },
     'g7qnx9jd': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8317,7 +8317,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'a3gk00in': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8362,7 +8362,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Shooting',
     },
     'rb0yuexb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8397,7 +8397,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Be Pro',
     },
     '7jlj1kbe': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': 'Home',
     },
   },
@@ -8412,7 +8412,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '8b7ew0z5': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8449,7 +8449,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'zm60io7h': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8513,7 +8513,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'rgmict4a': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8554,7 +8554,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'zidj2qrq': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8591,7 +8591,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     '5g4ivfrl': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8628,7 +8628,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     'xzfuywjr': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8938,7 +8938,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Ships',
     },
     'fys43hmh': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -8998,7 +8998,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '4smsjohf': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9041,7 +9041,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Dribbling',
     },
     '0c6ntzvb': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9107,7 +9107,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'mrpri6au': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9164,7 +9164,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     's3s0xqrj': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9221,7 +9221,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'cyv5dxfd': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9278,7 +9278,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '1dfqx2p7': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9420,7 +9420,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Food',
     },
     '9lhztia3': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9558,7 +9558,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'qw1ta8jn': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9633,7 +9633,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '4f8uiuju': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9690,7 +9690,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'kmflx1tl': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9739,7 +9739,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'p2afpl3h': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9788,7 +9788,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '5ehe5x3x': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9837,7 +9837,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'ayc4zul9': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9897,7 +9897,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'ez5pbdno': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -9957,7 +9957,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'kms8qu7q': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -10006,7 +10006,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'gynicfc6': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -10055,7 +10055,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     '623oqh77': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
@@ -10193,7 +10193,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': '',
     },
     'ycj02sm2': {
-      'ru': 'Home',
+      'ru': 'Дом',
       'en': '',
     },
   },
