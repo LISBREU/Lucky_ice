@@ -266,10 +266,10 @@ class _HockeyFactsWidgetState extends State<HockeyFactsWidget>
                                         borderRadius:
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
-                                          'assets/images/__.png',
+                                          'assets/images/referee_no_bg.png',
                                           width: 150.0,
                                           height: 180.0,
-                                          fit: BoxFit.cover,
+                                          fit: BoxFit.contain,
                                         ),
                                       ),
                                     ),
@@ -448,10 +448,10 @@ class _HockeyFactsWidgetState extends State<HockeyFactsWidget>
                                         borderRadius:
                                             BorderRadius.circular(8.0),
                                         child: Image.asset(
-                                          'assets/images/__.png',
+                                          'assets/images/cup_no_bg.png',
                                           width: 150.0,
                                           height: 180.0,
-                                          fit: BoxFit.cover,
+                                          fit: BoxFit.contain,
                                         ),
                                       ),
                                     ),
